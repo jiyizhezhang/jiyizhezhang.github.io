@@ -1,18 +1,17 @@
 ---
-title: "Allan Lab - Home"
+title: "xxx Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "xxx Lab at UoM."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at [Department of Chemical Engineering](https://www.ce.manchester.ac.uk/) and at the University of Manchester. 
+Welcome to the **xxxx Group**!
 
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+We are an interdisciplinary research group at [Department of Chemical Engineering](https://www.ce.manchester.ac.uk/) and at the University of Manchester, 
+working on **liquid phase separation** challenges with the help of **AI** and **digital tools**!
 
-# This is for adding slider images
+
 [//]: # (<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >)
 
 [//]: # (    <!-- Menu -->)
