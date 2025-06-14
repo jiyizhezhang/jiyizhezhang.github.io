@@ -11,9 +11,7 @@ Welcome to the **xxxx Group**!
 We are an interdisciplinary research group at [Department of Chemical Engineering](https://www.ce.manchester.ac.uk/) and at the University of Manchester, 
 working on **liquid phase separation** challenges with the help of **AI** and **digital tools**!
 
-<figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" style="width: 200px">
-</figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" alt="Alt text" width="500" />
 
 
 
