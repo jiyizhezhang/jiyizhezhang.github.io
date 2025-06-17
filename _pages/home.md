@@ -11,9 +11,6 @@ Welcome to the **Zhang's Group**!
 We are an interdisciplinary research group at [Department of Chemical Engineering](https://www.ce.manchester.ac.uk/) and at the University of Manchester, 
 working on **liquid phase separation** challenges with the help of **AI/ML** and **digital tools**!
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" alt="Alt text" width="500" />
-
-
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
 
@@ -24,16 +21,6 @@ working on **liquid phase separation** challenges with the help of **AI/ML** and
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
 
         <li data-target="#carousel" data-slide-to="1"></li>
-
-        <li data-target="#carousel" data-slide-to="2"></li>
-
-        <li data-target="#carousel" data-slide-to="3"></li>
-
-        <li data-target="#carousel" data-slide-to="4"></li>
-
-        <li data-target="#carousel" data-slide-to="5"></li>
-
-        <li data-target="#carousel" data-slide-to="6"></li>
 
     </ol>
 
@@ -47,49 +34,13 @@ working on **liquid phase separation** challenges with the help of **AI/ML** and
 
         </div>
 
-[//]: # (        <div class="item">)
+        <div class="item">
 
-[//]: # ()
-[//]: # (            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />)
 
-[//]: # ()
-[//]: # (        </div>)
+            <img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" alt="Slide 2" />
 
-[//]: # ()
-[//]: # (        <div class="item">)
 
-[//]: # ()
-[//]: # (            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />)
-
-[//]: # ()
-[//]: # (        </div>)
-
-[//]: # ()
-[//]: # (        <div class="item">)
-
-[//]: # ()
-[//]: # (            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />)
-
-[//]: # ()
-[//]: # (        </div>)
-
-[//]: # ()
-[//]: # (        <div class="item">)
-
-[//]: # ()
-[//]: # (            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />)
-
-[//]: # ()
-[//]: # (        </div>       )
-
-[//]: # ()
-[//]: # (         <div class="item">)
-
-[//]: # ()
-[//]: # (            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />)
-
-[//]: # ()
-[//]: # (        </div>)
+        </div>
 
     </div>
 
