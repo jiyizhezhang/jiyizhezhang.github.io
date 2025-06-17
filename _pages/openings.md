@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Zhang's Group - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
