@@ -20,7 +20,7 @@ working on **liquid phase separation** challenges with the help of **AI/ML** and
 
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
 
-        <li data-target="#carousel" data-slide-to="1"></li>
+[//]: # (        <li data-target="#carousel" data-slide-to="1"></li>)
 
     </ol>
 
@@ -34,13 +34,15 @@ working on **liquid phase separation** challenges with the help of **AI/ML** and
 
         </div>
 
-        <div class="item">
+[//]: # (        <div class="item">)
 
+[//]: # ()
+[//]: # ()
+[//]: # (            <img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" alt="Slide 2" />)
 
-            <img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" alt="Slide 2" />
-
-
-        </div>
+[//]: # ()
+[//]: # ()
+[//]: # (        </div>)
 
     </div>
 
