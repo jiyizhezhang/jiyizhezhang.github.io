@@ -48,7 +48,7 @@ permalink: /publications/
 <!-- START OF PAGE -->
 # Publications
 
-(Last updated May. 14, 2025. See Google Scholar for most up-to-date publications)
+(Last updated July, 2025. See Google Scholar for most up-to-date publications)
 
 <!-- Display all possible research themes as filter buttons -->
 <p>

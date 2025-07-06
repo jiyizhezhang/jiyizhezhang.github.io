@@ -11,89 +11,11 @@ Welcome to the **Zhang's Group**!
 We are an interdisciplinary research group at [Department of Chemical Engineering](https://www.ce.manchester.ac.uk/) and at the University of Manchester, 
 working on **separation challenges** with the help of **AI/ML** and **digital tools**!
 
-
-[//]: # (<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >)
-
-[//]: # ()
-[//]: # (    <!-- Menu -->)
-
-[//]: # ()
-[//]: # (    <ol class="carousel-indicators">)
-
-[//]: # ()
-[//]: # (        <li data-target="#carousel" data-slide-to="0" class="active"></li>)
-
-[//]: # ()
-[//]: # (        <li data-target="#carousel" data-slide-to="1"></li>)
-
-[//]: # ()
-[//]: # (    </ol>)
-
-[//]: # ()
-[//]: # (    <!-- Items -->)
-
-[//]: # ()
-[//]: # (    <div class="carousel-inner" markdown="0">)
-
-[//]: # ()
-[//]: # (        <div class="item active">)
-
-[//]: # ()
-[//]: # (            <img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" alt="Slide 1" />)
-
-[//]: # ()
-[//]: # (        </div>)
-
-[//]: # ()
-[//]: # (        <div class="item">)
-
-[//]: # ()
-[//]: # ()
-[//]: # ()
-[//]: # (            <img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" alt="Slide 2" />)
-
-[//]: # ()
-[//]: # ()
-[//]: # ()
-[//]: # (        </div>)
-
-[//]: # ()
-[//]: # (    </div>)
-
-[//]: # ()
-[//]: # (  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">)
-
-[//]: # ()
-[//]: # (    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>)
-
-[//]: # ()
-[//]: # (    <span class="sr-only">Previous</span>)
-
-[//]: # ()
-[//]: # (  </a>)
-
-[//]: # ()
-[//]: # (  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">)
-
-[//]: # ()
-[//]: # (    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>)
-
-[//]: # ()
-[//]: # (    <span class="sr-only">Next</span>)
-
-[//]: # ()
-[//]: # (  </a>)
-
-[//]: # ()
-[//]: # (</div>)
+[Learn more about our journey]({{ site.url }}{{ site.baseurl }}/research)
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" width="80%">
 </figure>
-
-
-
-[(Learn more about our journey)]({{ site.url }}{{ site.baseurl }}/research)!
 
 **We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://jiyizhezhang.github.io/vacancies) **!**
 
@@ -105,13 +27,5 @@ working on **separation challenges** with the help of **AI/ML** and **digital to
 [//]: # (<figure class="fifth">)
 
 [//]: # (  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">)
-
-[//]: # (  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">)
-
-[//]: # (  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">)
-
-[//]: # (  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">)
-
-[//]: # (  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">)
 
 [//]: # (</figure>)
