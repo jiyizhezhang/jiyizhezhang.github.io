@@ -12,57 +12,84 @@ We are an interdisciplinary research group at [Department of Chemical Engineerin
 working on **liquid phase separation** challenges with the help of **AI/ML** and **digital tools**!
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+[//]: # (<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >)
 
-    <!-- Menu -->
+[//]: # ()
+[//]: # (    <!-- Menu -->)
 
-    <ol class="carousel-indicators">
+[//]: # ()
+[//]: # (    <ol class="carousel-indicators">)
 
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+[//]: # ()
+[//]: # (        <li data-target="#carousel" data-slide-to="0" class="active"></li>)
 
+[//]: # ()
 [//]: # (        <li data-target="#carousel" data-slide-to="1"></li>)
 
-    </ol>
+[//]: # ()
+[//]: # (    </ol>)
 
-    <!-- Items -->
+[//]: # ()
+[//]: # (    <!-- Items -->)
 
-    <div class="carousel-inner" markdown="0">
+[//]: # ()
+[//]: # (    <div class="carousel-inner" markdown="0">)
 
-        <div class="item active">
+[//]: # ()
+[//]: # (        <div class="item active">)
 
-            <img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" alt="Slide 1" />
+[//]: # ()
+[//]: # (            <img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" alt="Slide 1" />)
 
-        </div>
+[//]: # ()
+[//]: # (        </div>)
 
+[//]: # ()
 [//]: # (        <div class="item">)
 
+[//]: # ()
 [//]: # ()
 [//]: # ()
 [//]: # (            <img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" alt="Slide 2" />)
 
 [//]: # ()
 [//]: # ()
+[//]: # ()
 [//]: # (        </div>)
 
-    </div>
+[//]: # ()
+[//]: # (    </div>)
 
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+[//]: # ()
+[//]: # (  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">)
 
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+[//]: # ()
+[//]: # (    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>)
 
-    <span class="sr-only">Previous</span>
+[//]: # ()
+[//]: # (    <span class="sr-only">Previous</span>)
 
-  </a>
+[//]: # ()
+[//]: # (  </a>)
 
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+[//]: # ()
+[//]: # (  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">)
 
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+[//]: # ()
+[//]: # (    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>)
 
-    <span class="sr-only">Next</span>
+[//]: # ()
+[//]: # (    <span class="sr-only">Next</span>)
 
-  </a>
+[//]: # ()
+[//]: # (  </a>)
 
-</div>
+[//]: # ()
+[//]: # (</div>)
+
+![]({{ site.url }}{{ site.baseurl }}/images/1_home/home.png){: style="width: 300px; float: left; margin: 10px"}
+
+Learn more about our journey [(more info)](https://jiyizhezhang.github.io/research/)!
 
 **We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://jiyizhezhang.github.io/vacancies) **!**
 
