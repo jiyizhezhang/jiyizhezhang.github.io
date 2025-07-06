@@ -1,9 +1,9 @@
 ---
 title: "Zhang's Group - Openings"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Vacancies"
 sitemap: false
-permalink: /openings
+permalink: /vacancies
 ---
 
 # Open positions
