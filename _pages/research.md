@@ -1,7 +1,7 @@
 ---
 title: "Zhang's group - Research"
 layout: textlay
-excerpt: "Zhang's group -- Research"
+excerpt: "Zhang's group -- Research."
 sitemap: false
 permalink: /research/
 ---
@@ -23,7 +23,7 @@ Liquid-liquid system is fundamental to origin of life, multiphase reaction syste
 In an extraction device, multiple phenomena can occur, such as droplet breakup, coalescence, mass transfer across the interface, which will determine the overall extraction performances. 
 With the advanced imaging measurements along with computer vision tools, we are able to capture the snapshots of these phenomena and extract useful information to better understand the underlying mechanisms of the separation processes. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/2_researchtopics/1.png){: style="width: 300px; float: left; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/2_researchtopics/1.png){: style="width: 300px; float: center; margin: 10px"}
 
 
 **Autonomous platform for physicochemical properties measurements** 
@@ -31,7 +31,7 @@ With the advanced imaging measurements along with computer vision tools, we are 
 Identifying the key physicochemical properties is essential to understand the separation system and guide the selection of solvents. 
 Traditional way to do this is by manual experiments. With the lab automation, we can by leveraging robots for handling and transferring liquids, and different types of spectroscopy to collect rich information from the system, which are important to infer the properties at large scale.
 
-![]({{ site.url }}{{ site.baseurl }}/images/2_researchtopics/2.png){: style="width: 300px; float: right; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/2_researchtopics/2.png){: style="width: 300px; float: center; margin: 10px"}
 
 
 **AI-assisted model-based process development** 
@@ -40,7 +40,7 @@ Moving from lab to manufacturing is never easy, but it is good to test things be
 In an ideal scenario, it is good to have digital twin that can simulate the single unit operation or the entire chemical process, which can be used as a foundation for optimisation and environmental evaluation. 
 Process modeling has crystalled many years of knowledge of human experts, we have explored the ways of formulate human knowledge in a structural format using an ontology and designing reinforcement learning agents to automatically assemble models for a new process. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/2_researchtopics/3.png){: style="width: 300px; float: left; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/2_researchtopics/3.png){: style="width: 300px; float: center; margin: 10px"}
 
 
 **Novel separation processes**
@@ -49,27 +49,6 @@ Let’s imagine some bold ideas!
 New separations methodologies are on horizon such as designing new functional solvents, or using electricity-driven separations. 
 We apply Bayesian optimisation to screen the best operating conditions and CFD simulation to understand the transport phenomena.
 
-![]({{ site.url }}{{ site.baseurl }}/images/2_researchtopics/4.png){: style="width: 300px; float: right; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/2_researchtopics/4.png){: style="width: 300px; float: center; margin: 10px"}
 
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
-
-  <!-- Text section -->
-  <div style="flex: 2;">
-    <h2 style="color: #003366;">Electrochemically-Mediated Separations in Liquid Phases</h2>
-    <p>
-      Selective separations are pivotal for the chemical industry, where they can account for 40–70% of total capital and operating expenses, as well as for environmental remediation and water purification.
-      We <a href="#">design molecularly-precise, redox-active sorbents & membranes</a> for chemical separations in liquid phases with applications such as remediation of water micropollutants, enantioseparation, and resource mining from water systems.
-    </p>
-
-    <p>
-      Compared to conventional separation methods, electrochemically-mediated separations have the potential advantages of fast separation kinetics, simple instrumentation, high sorbent reusability, the absence of chemical regeneration steps, etc. All these advantages also lead to modularity and ease of scale-up.
-    </p>
-  </div>
-
-  <!-- Image section -->
-  <div style="flex: 1; text-align: center;">
-    <img src="/images/2_researchtopics/4.png" alt="Separation diagram" style="max-width: 100%; height: auto;">
-  </div>
-
-</div>

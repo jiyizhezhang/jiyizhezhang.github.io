@@ -3,7 +3,7 @@ title: "Zhang's Group - Publications"
 layout: gridlay
 excerpt: "Zhang's Group -- Publications."
 sitemap: false
-permalink: /publications
+permalink: /publications/
 ---
 
 
