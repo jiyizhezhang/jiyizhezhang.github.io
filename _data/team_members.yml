@@ -1,20 +1,3 @@
-- name: Dr. Jiyizhe Zhang
-  photo: rock.jpg
-  info: Lecture (Teaching & Research)
-  email: xxxx
-  number_educ: 3
-  education1: PhD Tsinghua University
-  education2: Joint-PhD University of Melbourne
-  education3: Postdoc Cambridge
-
-#- name: Jiasen Niu
-#  photo: Jiasen.png
-#  info: Leader Leiden Branch, started Oct 2020
-#  email: niu@physics.leidenuniv.nl
-#  number_educ: 2
-#  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-#  education2: BSc Jilin University
-
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info

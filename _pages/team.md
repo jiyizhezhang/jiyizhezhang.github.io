@@ -12,7 +12,7 @@ permalink: /team/
 
 <div class="member-card" markdown>
 
-![Jiyizhe Zhang](../images/1_home/home.png){ .member-photo }
+
 ### Dr Jiyizhe Zhang 
 
 *Lecturer in Chemical Engineering*
@@ -32,6 +32,6 @@ Meanwhile, she developed automated experimental platform with hyperspectral imag
 
 ## Former students
 
-</div>
+
 
 

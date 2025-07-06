@@ -52,7 +52,24 @@ We apply Bayesian optimisation to screen the best operating conditions and CFD s
 ![]({{ site.url }}{{ site.baseurl }}/images/2_researchtopics/4.png){: style="width: 300px; float: right; margin: 10px"}
 
 
-<img src="/images/2_researchtopics/4.png" alt="Description" style="float: right; margin: 10px; width: 300px;">
-<p>
-  This is your paragraph text. It will wrap around the image on the left or right depending on the float direction.
-</p>
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
+
+  <!-- Text section -->
+  <div style="flex: 2;">
+    <h2 style="color: #003366;">Electrochemically-Mediated Separations in Liquid Phases</h2>
+    <p>
+      Selective separations are pivotal for the chemical industry, where they can account for 40–70% of total capital and operating expenses, as well as for environmental remediation and water purification.
+      We <a href="#">design molecularly-precise, redox-active sorbents & membranes</a> for chemical separations in liquid phases with applications such as remediation of water micropollutants, enantioseparation, and resource mining from water systems.
+    </p>
+
+    <p>
+      Compared to conventional separation methods, electrochemically-mediated separations have the potential advantages of fast separation kinetics, simple instrumentation, high sorbent reusability, the absence of chemical regeneration steps, etc. All these advantages also lead to modularity and ease of scale-up.
+    </p>
+  </div>
+
+  <!-- Image section -->
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/2_researchtopics/4.png" alt="Separation diagram" style="max-width: 100%; height: auto;">
+  </div>
+
+</div>
