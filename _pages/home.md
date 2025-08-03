@@ -6,6 +6,8 @@ sitemap: false
 permalink: /
 ---
 
+### Welcome to Zhang's Research Group
+
 We are an interdisciplinary research group at [Department of Chemical Engineering](https://www.ce.manchester.ac.uk/) and at the [University of Manchester](https://www.manchester.ac.uk/), 
 working on **chemical separation challenges** with the help of **artificial intelligence**, **lab automation** and **digital tools**!
 
