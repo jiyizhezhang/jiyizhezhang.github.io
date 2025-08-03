@@ -8,6 +8,7 @@ permalink: /team/
 
 ### Group Members
 
+
 #### Principal Investigator
 
 <div class="member-card" markdown>
@@ -23,22 +24,29 @@ She led the project of developing digital twins for chemical processes, involvin
 Meanwhile, she developed automated experimental platform with hyperspectral imaging for measuring key physicochemical properties such as partition coefficient.
 </div>
 
+
 #### PhD Students
 
 This could be you!
+
 
 #### Master and Undergraduate Students
 
 This could be you!
 
+
 #### Former supervised students
 
-Mathis Heyer 
+Mathis Heyer
+
 2023.6 @ University of Cambridge
+
 now PhD student at Stanford University
 
 Jan
+
 2024.6 @ University of Cambridge
+
 now PhD student at ETH
 
 
