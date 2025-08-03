@@ -8,19 +8,20 @@ permalink: /research/
 
 ### Research
 
-Separation has long been essential to human society, from extracting herbal medicines in ancient times to purifying enantiomers for life-saving drugs today.
-The pursuit of sustainability development and dynamic requires green separation solutions with less toxic solvent use, and developing and scaling the process quickly. 
-Luckily nowadays, we have more powerful tools in hand. We can train models to help the discovery and design of separation process, and we can collect rich data more easily from experiments by leveraging advanced sensing and lab automation. 
-Standing at the interdisciplinary point, the aim of our research is to transforming the way to explore the use of AI and digital tools to bring innovative separation solutions to tackle the challenges that we are facing today. 
-In the group, we focus on liquid-phase separation, such as liquid-liquid extraction, with application areas across pharmaceutical, bioprocess downstream and metal separations. 
-The long term goal is to develop sustainable, scalable and cost-effective separations for future needs.
+Separation has long been essential to human society, from extracting herbal medicines in ancient times, to purifying enantiomers for life-saving drugs today. However, separating components from mixtures are not always straightforward, most of the time, is very expensive and energy-intensive.
+
+In the group, we look for innovative ways to solve chemical separation challenges with the help of **artificial intelligence**, **lab automation** and **modelling tools**, to accelerate the discovery and development of separation processes. This ranges from understanding fundamental interfacial phenomena, designing novel separation systems and developing models for in silico prediction of separation performances at large scale. 
+
+We primarily focus on **liquid-phase separation**, such as solvent extraction. We look at design and develop sustainable and cost-effective separation processes for our near future, including purifying bio-downstream, end-of-life closed-loop materials recycling. 
 
 Here are some topic that we currently focus on:
+
+<br>
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
 <div style="flex: 1;">
-<strong>Liquid-liquid fundamentals</strong><br><br>
+<strong>Liquid-liquid fundamentals</strong><br>
 Liquid-liquid system is fundamental to origin of life, multiphase reaction system, also critical for separation system like solvent extraction. In an extraction device, multiple phenomena can occur, such as droplet breakup, coalescence, mass transfer across the interface, which will determine the overall extraction performances. With the advanced imaging measurements along with computer vision tools, we are able to capture the snapshots of these phenomena and extract useful information to better understand the underlying mechanisms of the separation processes.
 </div>
 
@@ -57,7 +58,7 @@ Identifying the key physicochemical properties (e.g. partition coefficient, liqu
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
 <div style="flex: 1;">
-<strong>AI-assisted separation process development</strong><br><br>
+<strong>AI-assisted separation process development</strong><br>
 Moving from lab to manufacturing is never easy. In an ideal scenario, we could have digital twin that can simulate the separation process and predict at large scale. For this, we develop process models to formulate our formulate and test our understanding of the process. Furthermore, we design AI agents (such as reinforcement learning) working as human modelers to assemble models automatically for a given process.
 </div>
 
@@ -75,12 +76,12 @@ Moving from lab to manufacturing is never easy. In an ideal scenario, we could h
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
 <div style="flex: 1;">
-<strong>Novel separation processes</strong><br><br>
+<strong>Novel separation processes</strong><br>
 Let’s imagine some bold ideas! New separations approaches are on the horizon, such as designing new functional materials/solvent systems with high selectivity, or using electrochemical, or designing new separation devices. Chemical space is often large to identify the best, we use Bayesian optimisation discover the best in an efficient way. 
 </div>
 
 <div style="flex: 0 0 300px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/3.png" alt="AI process img" style="width: 100%; height: auto;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/4.png" alt="novel sep" style="width: 100%; height: auto;">
 </div>
 
 </div>
