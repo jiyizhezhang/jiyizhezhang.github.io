@@ -15,7 +15,7 @@ working on **chemical separation challenges** with the help of **artificial inte
 <img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" width="80%">
 </figure>
 
-**We are always looking for passionate PhD students, Postdocs, and Master students to join our team![(more info)](https://jiyizhezhang.github.io/vacancies)**
+We are always looking for passionate **PhD students, Postdocs, and Master students** to join our team!** [(more info)](https://jiyizhezhang.github.io/vacancies) **
 
 
 
