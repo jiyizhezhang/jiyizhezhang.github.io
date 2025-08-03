@@ -19,15 +19,22 @@ Here are some topic that we currently focus on:
 
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-<div style="flex: 1;">
-<strong>Liquid-liquid fundamentals</strong><br><br>
-Liquid-liquid system is fundamental to origin of life, multiphase reaction system, also critical for separation system like solvent extraction. In an extraction device, multiple phenomena can occur, such as droplet breakup, coalescence, mass transfer across the interface, which will determine the overall extraction performances. With the advanced imaging measurements along with computer vision tools, we are able to capture the snapshots of these phenomena and extract useful information to better understand the underlying mechanisms of the separation processes.
 
-<div style="flex: 0 0 300px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/1.png" alt="Liquid-liquid fundamental img" style="width: 100%; height: auto;">
+  <div style="flex: 1;">
+    <p><strong>Liquid-liquid fundamentals</strong></p>
+    <p>
+      Liquid-liquid system is fundamental to origin of life, multiphase reaction system, also critical for separation system like solvent extraction.
+      In an extraction device, multiple phenomena can occur, such as droplet breakup, coalescence, mass transfer across the interface, which will determine the overall extraction performances.
+      With the advanced imaging measurements along with computer vision tools, we are able to capture the snapshots of these phenomena and extract useful information to better understand the underlying mechanisms of the separation processes.
+    </p>
+  </div>
+
+  <div style="flex: 0 0 300px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/1.png" alt="Image" style="width: 100%; height: auto;">
+  </div>
+
 </div>
-</div>
-</div>
+
 
 <br>
 

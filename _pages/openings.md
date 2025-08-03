@@ -12,9 +12,16 @@ We are always looking for passionate individuals to join our team! Our job openi
 
 **We currently have no open positions**
 
+<br>
+
+
+
 #### Past open positions
 
 Past openings are here:
+
+<br>
+
 
 
 #### Applications for PhD Postdoc positions
@@ -29,6 +36,9 @@ Here are some funding opportunities highly relevant to our research:
 - [Leverhulme Trust Early Career Fellowships](https://www.leverhulme.ac.uk/early-career-fellowships)
 
 - [Royal Society Newton International Fellowship](https://royalsociety.org/grants/newton-international/)
+
+<br>
+
 
 #### Master projects
 If you are looking for a Master project, please contact me via email or stop by my office if you are in UoM.
