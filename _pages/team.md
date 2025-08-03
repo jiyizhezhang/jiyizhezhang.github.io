@@ -10,6 +10,7 @@ permalink: /team/
 
 We welcome talents from all over the world to join our team!
 
+<br>
 
 #### Principal Investigator
 
