@@ -12,10 +12,9 @@ permalink: /team/
 
 <div class="member-card" markdown>
 
+**Jiyizhe Zhang**
 
-##### Dr Jiyizhe Zhang 
-
-*Lecturer in Chemical Engineering*
+*Lecturer (Assistant Professor) in Chemical Engineering*
 
 Dr. Jiyizhe Zhang studied chemical engineering in her undergraduate. 
 Starting from 2017, she took a jointly awarded PhD programme working with Prof. Yundong Wang and Prof. Weiyang Fei at Tsinghua University, and Prof. Geoff Stevens and Prof. Kathryn Mumform at the University of Melbourne, working on modelling of continuous solvent extraction processes for pharmaceutical applications.
@@ -32,7 +31,16 @@ This could be you!
 
 This could be you!
 
-#### Former students
+#### Former supervised students
+
+Mathis Heyer 
+2023.6 @ University of Cambridge
+now PhD student at Stanford University
+
+Jan
+2024.6 @ University of Cambridge
+now PhD student at ETH
+
 
 
 
