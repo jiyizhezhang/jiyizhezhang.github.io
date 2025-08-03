@@ -8,7 +8,7 @@ permalink: /research/
 
 ### Research
 
-**Separation** has long been essential to human society, from extracting herbal medicines in ancient times, to purifying enantiomers for life-saving drugs today. However, separating components from mixtures are not always straightforward, most of the time, is very expensive and energy-intensive.
+**Chemical separations** have long been essential to human society, from extracting herbal medicines in ancient times, to purifying enantiomers for life-saving drugs today. However, separating components from mixtures are not always straightforward, most of the time, is very expensive and energy-intensive.
 
 In the group, we look for innovative ways to solve chemical separation challenges with the help of **artificial intelligence**, **lab automation** and **modelling tools**, to accelerate the discovery and development of separation processes. This ranges from understanding fundamental interfacial phenomena, designing novel separation systems and developing models for in silico prediction of separation performances at large scale. 
 
