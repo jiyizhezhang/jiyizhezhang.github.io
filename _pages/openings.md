@@ -1,5 +1,5 @@
 ---
-title: "Zhang's Group - Openings"
+title: "Zhang Group - Openings"
 layout: textlay
 excerpt: "Vacancies"
 sitemap: false
@@ -43,3 +43,4 @@ Here are some funding opportunities highly relevant to our research:
 #### Master projects
 If you are looking for a Master project, please contact me via email or stop by my office if you are in UoM.
 
+<br><br>

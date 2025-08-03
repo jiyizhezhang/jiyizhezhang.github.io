@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Zhang's Group at UoM."
+excerpt: "Zhang Group at UoM."
 sitemap: false
 permalink: /allnews.html
 ---

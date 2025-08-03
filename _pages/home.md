@@ -1,12 +1,14 @@
 ---
-title: "Zhang's Group - Home"
+title: "Zhang Group - Home"
 layout: homelay
-excerpt: "Zhang's Group at UoM."
+excerpt: "Zhang Group at UoM."
 sitemap: false
 permalink: /
 ---
 
-### Welcome to Zhang's Research Group
+### Welcome to Zhang Research Group
+
+<br>
 
 We are an interdisciplinary research group at [Department of Chemical Engineering](https://www.ce.manchester.ac.uk/) and at the [University of Manchester](https://www.manchester.ac.uk/), 
 working on **chemical separation challenges** with the help of **artificial intelligence**, **lab automation** and **digital tools**!
@@ -20,7 +22,7 @@ working on **chemical separation challenges** with the help of **artificial inte
 We are always looking for passionate **PhD students, Postdocs, and Master students** to join our team!** [(more info)](https://jiyizhezhang.github.io/vacancies) **
 
 
-
+<br><br>
 
 [//]: # (# This is for adding funders images)
 

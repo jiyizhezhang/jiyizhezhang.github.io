@@ -1,7 +1,7 @@
 ---
-title: "Zhang's Group - Team"
+title: "Zhang Group - Team"
 layout: gridlay
-excerpt: "Zhang's Group: Team members"
+excerpt: "Zhang Group: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -48,6 +48,7 @@ This could be you!
 
 2024.4-2024.10 @ University of Cambridge, now PhD student at ETH
 
+<br><br>
 
 
 

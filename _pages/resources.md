@@ -1,7 +1,7 @@
 ---
-title: "Zhang's Group - Resources"
+title: "Zhang Group - Resources"
 layout: gridlay
-excerpt: "Zhang's Group -- Resources."
+excerpt: "Zhang Group -- Resources."
 sitemap: false
 permalink: /resources/
 ---
@@ -17,3 +17,5 @@ Group Github repository is on the way...
 #### Group Wiki
 
 Group wiki is on the way...
+
+<br><br>

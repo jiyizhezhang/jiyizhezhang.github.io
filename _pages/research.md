@@ -1,20 +1,20 @@
 ---
-title: "Zhang's group - Research"
+title: "Zhang group - Research"
 layout: textlay
-excerpt: "Zhang's group -- Research."
+excerpt: "Zhang group -- Research."
 sitemap: false
 permalink: /research/
 ---
 
 ### Research
 
-Separation has long been essential to human society, from extracting herbal medicines in ancient times, to purifying enantiomers for life-saving drugs today. However, separating components from mixtures are not always straightforward, most of the time, is very expensive and energy-intensive.
+**Separation** has long been essential to human society, from extracting herbal medicines in ancient times, to purifying enantiomers for life-saving drugs today. However, separating components from mixtures are not always straightforward, most of the time, is very expensive and energy-intensive.
 
 In the group, we look for innovative ways to solve chemical separation challenges with the help of **artificial intelligence**, **lab automation** and **modelling tools**, to accelerate the discovery and development of separation processes. This ranges from understanding fundamental interfacial phenomena, designing novel separation systems and developing models for in silico prediction of separation performances at large scale. 
 
-We primarily focus on **liquid-phase separation**, such as solvent extraction. We look at design and develop sustainable and cost-effective separation processes for our near future, including purifying bio-downstream, end-of-life closed-loop materials recycling. 
+We primarily focus on **liquid-phase separation**, such as **solvent extraction**. We look at design and develop **sustainable** and **cost-effective** separation processes for our near future, including purifying bio-downstream, end-of-life closed-loop materials recycling. 
 
-Here are some topic that we currently focus on:
+Here are some research topic that we currently focus on:
 
 <br>
 
@@ -31,8 +31,6 @@ Liquid-liquid system is fundamental to origin of life, multiphase reaction syste
 
 </div>
 
-
-<br>
 
 
 
@@ -52,8 +50,6 @@ Identifying the key physicochemical properties (e.g. partition coefficient, liqu
 
 
 
-<br>
-
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
@@ -67,9 +63,6 @@ Moving from lab to manufacturing is never easy. In an ideal scenario, we could h
 </div>
 
 </div>
-
-
-<br>
 
 
 

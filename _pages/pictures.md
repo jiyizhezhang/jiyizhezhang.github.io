@@ -1,7 +1,7 @@
 ---
-title: "Zhang's Group - Pictures"
+title: "Zhang Group - Pictures"
 layout: piclay
-excerpt: "Zhang's Group -- Pictures"
+excerpt: "Zhang Group -- Pictures"
 permalink: /pictures/
 ---
 
