@@ -6,10 +6,12 @@ sitemap: false
 permalink: /resources/
 ---
 
-**Group Github**
+#### Group Github
 
-Check out github repository
+Group Github repository is on the way...
 
-**Group Wiki**
+<br>
 
-For group members, please see the group wiki for more information.
+#### Group Wiki
+
+Group wiki is on the way...

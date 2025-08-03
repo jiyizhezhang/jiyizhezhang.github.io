@@ -42,15 +42,13 @@ This could be you!
 
 **Mathis Heyer**
 
-2023.6 @ University of Cambridge
-
-now PhD student at Stanford University
+2023.4-2023.10 @ University of Cambridge, now PhD student at Stanford University
 
 **Jan Laub-Fridric**
 
-2024.6 @ University of Cambridge
+2024.4-2024.10 @ University of Cambridge, now PhD student at ETH
 
-now PhD student at ETH
+
 
 
 
