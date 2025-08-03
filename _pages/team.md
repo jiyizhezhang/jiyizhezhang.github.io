@@ -24,26 +24,29 @@ She led the project of developing digital twins for chemical processes, involvin
 Meanwhile, she developed automated experimental platform with hyperspectral imaging for measuring key physicochemical properties such as partition coefficient.
 </div>
 
+<br>
 
 #### PhD Students
 
 This could be you!
 
+<br>
 
 #### Master and Undergraduate Students
 
 This could be you!
 
+<br>
 
 #### Former supervised students
 
-Mathis Heyer
+**Mathis Heyer**
 
 2023.6 @ University of Cambridge
 
 now PhD student at Stanford University
 
-Jan
+**Jan Laub-Fridric**
 
 2024.6 @ University of Cambridge
 
