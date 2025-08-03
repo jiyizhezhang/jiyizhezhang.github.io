@@ -6,14 +6,14 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+### Group Members
 
-## Principal Investigator
+#### Principal Investigator
 
 <div class="member-card" markdown>
 
 
-### Dr Jiyizhe Zhang 
+##### Dr Jiyizhe Zhang 
 
 *Lecturer in Chemical Engineering*
 
@@ -24,13 +24,15 @@ She led the project of developing digital twins for chemical processes, involvin
 Meanwhile, she developed automated experimental platform with hyperspectral imaging for measuring key physicochemical properties such as partition coefficient.
 </div>
 
-## PhD Students
+#### PhD Students
 
+This could be you!
 
-## Master and Bachelor Students
+#### Master and Undergraduate Students
 
+This could be you!
 
-## Former students
+#### Former students
 
 
 
