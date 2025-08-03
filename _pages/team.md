@@ -28,7 +28,7 @@ Meanwhile, she developed automated experimental platform with hyperspectral imag
 </div>
 
 <div style="flex: 0 0 300px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/3_others/Jiyizhe.jpg" alt="profile" style="width: 60%; height: auto;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/3_others/Jiyizhe.jpg" alt="profile" style="width: 80%; height: auto;">
 </div>
 
 </div>
