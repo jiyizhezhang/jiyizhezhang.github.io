@@ -6,18 +6,18 @@ sitemap: false
 permalink: /vacancies/
 ---
 
-# Open positions
+### Open positions
 
-We are always looking for passionate individuals to join our team! Our job openings will be listed here, also are advertised on the website ()
+We are always looking for passionate individuals to join our team! Our job openings will be listed here, also are advertised on the [website](https://www.ce.manchester.ac.uk/study/postgraduate-research/projects/).
 
 **We currently have no open positions**
 
-### Past open positions
+#### Past open positions
 
 Past openings are here:
 
 
-### Applications for PhD Postdoc positions
+#### Applications for PhD Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an email at **jiyizhe.zhang@manchester.ac.uk**. 
 State briefly your motivation and attach a CV.
 
@@ -30,6 +30,6 @@ Here are some funding opportunities highly relevant to our research:
 
 - [Royal Society Newton International Fellowship](https://royalsociety.org/grants/newton-international/)
 
-### Master projects
+#### Master projects
 If you are looking for a Master project, please contact me via email or stop by my office if you are in UoM.
 
