@@ -28,7 +28,7 @@ She received her PhD in 2022 and then joined University of Cambridge as a postdo
 </div>
 
 <div style="flex: 0 0 300px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/3_others/Jiyizhe.jpg" alt="profile" style="width: 70%; height: auto;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/3_others/Jiyizhe.jpg" class="img-fluid d-block mx-auto" alt="profile image" style="width: 70%;">
 </div>
 
 </div>
