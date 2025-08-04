@@ -28,12 +28,5 @@ working on **chemical separation challenges** with the help of **artificial inte
 We are always looking for passionate **PhD students, Postdocs, and Master students** to join our team!
 
 
-<br><br>
 
-[//]: # (# This is for adding funders images)
 
-[//]: # (<figure class="fifth">)
-
-[//]: # (  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">)
-
-[//]: # (</figure>)
