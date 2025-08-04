@@ -19,7 +19,7 @@ working on **chemical separation challenges** with the help of **artificial inte
 <img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" width="70%">
 </figure>
 
-We are always looking for passionate **PhD students, Postdocs, and Master students** to join our team![more info]({{ site.url }}{{ site.baseurl }}/openings)
+We are always looking for passionate **PhD students, Postdocs, and Master students** to join our team!
 
 
 <br><br>
