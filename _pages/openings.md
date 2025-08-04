@@ -20,11 +20,13 @@ We are always looking for passionate individuals to join our team! Our job openi
 
 
 
-#### Past open positions
+[//]: # (#### Past open positions)
 
-Past openings are here:
+[//]: # ()
+[//]: # (Past openings are here:)
 
-<br>
+[//]: # ()
+[//]: # (<br>)
 
 
 
