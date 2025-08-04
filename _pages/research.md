@@ -97,7 +97,7 @@ We apply <strong>AI-guided algorithms</strong> (e.g. Bayesian optimisation) to n
 <div class="container">
   <div class="row align-items-start">
     <div class="col-12 col-md-6">
-    <h4>Novel separation processes</h4>
+      <h4>Novel separation processes</h4>
       <p>Let’s imagine some <strong>bold ideas!</strong></p>
     </div>
     <div class="col-12 col-md-6 text-center">
