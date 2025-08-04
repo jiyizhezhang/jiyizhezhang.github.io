@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome to Zhang Research Group
+<h4 style="text-align: left;">Welcome to Zhang Research Group</h4>
 
 <br>
 
