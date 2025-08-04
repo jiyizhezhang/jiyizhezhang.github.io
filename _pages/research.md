@@ -29,7 +29,7 @@ With the <strong>advanced imaging techniques</strong> along with <strong>compute
 </div>
 
 <div style="flex: 0 0 300px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/1.png" alt="Liquid-liquid image" style="width: 120%; height: auto;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/1.png" alt="Liquid-liquid image" style="width: 110%; height: auto;">
 </div>
 
 </div>
@@ -50,7 +50,7 @@ The high-quality data collected from the experiments could be used later for tra
 </div>
 
 <div style="flex: 0 0 300px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/2.png" alt="auto exp img" style="width: 120%; height: auto;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/2.png" alt="auto exp img" style="width: 110%; height: auto;">
 </div>
 
 </div>
@@ -69,7 +69,7 @@ We are interested in designing <strong>AI agents</strong> to help us automating 
 </div>
 
 <div style="flex: 0 0 300px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/3.png" alt="AI process img" style="width: 120%; height: auto;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/3.png" alt="AI process img" style="width: 110%; height: auto;">
 </div>
 
 </div>
@@ -87,7 +87,7 @@ We apply <strong>AI-guided algorithms</strong> (e.g. Bayesian optimisation) to n
 </div>
 
 <div style="flex: 0 0 300px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/4.png" alt="novel sep" style="width: 120%; height: auto;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/4.png" alt="novel sep" style="width: 110%; height: auto;">
 </div>
 
 </div>
