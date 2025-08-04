@@ -7,6 +7,7 @@ permalink: /resources/
 ---
 ### Resources
 
+<br>
 
 #### Group Github
 
