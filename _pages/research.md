@@ -50,7 +50,7 @@ The high-quality data collected from the experiments could be used later for tra
 </div>
 
 <div style="flex: 0 0 300px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/2.png" class="img-fluid d-block mx-auto" alt="auto exp" style="width: 70%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/2.png" class="img-fluid d-block mx-auto" alt="auto exp" style="width: 110%;">
 </div>
 
 </div>
@@ -69,7 +69,7 @@ We are interested in designing <strong>AI agents</strong> to help us automating 
 </div>
 
 <div style="flex: 0 0 300px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/3.png" class="img-fluid d-block mx-auto" alt="process dev" style="width: 70%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/3.png" class="img-fluid d-block mx-auto" alt="process dev" style="width: 110%;">
 </div>
 
 </div>
@@ -87,10 +87,21 @@ We apply <strong>AI-guided algorithms</strong> (e.g. Bayesian optimisation) to n
 </div>
 
 <div style="flex: 0 0 300px; min-width: 250px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/4.png" class="img-fluid d-block mx-auto" alt="novel sep" style="width: 70%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/4.png" class="img-fluid d-block mx-auto" alt="novel sep" style="width: 110%;">
 </div>
 
 </div>
 
 
 
+<div class="container">
+  <div class="row align-items-start">
+    <div class="col-12 col-md-6">
+    <h4>Novel separation processes</h4>
+      <p>Let’s imagine some <strong>bold ideas!</strong></p>
+    </div>
+    <div class="col-12 col-md-6 text-center">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/4.png" class="img-fluid" alt="novel sep" style="max-width: 110%;">
+    </div>
+  </div>
+</div>
