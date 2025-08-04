@@ -12,9 +12,9 @@ permalink: /research/
 
 In the group, we look for innovative ways to solve chemical separation challenges with the help of **artificial intelligence**, **lab automation** and **modelling tools**, to accelerate the discovery and development of separation processes. This ranges from understanding fundamental interfacial phenomena, designing novel separation systems and developing models for in silico prediction of separation performances at large scale. 
 
-We primarily focus on **liquid-phase separation**, such as **solvent extraction**. We look at design and develop **sustainable** and **cost-effective** separation processes for our near future, including purifying bio-downstream, end-of-life closed-loop materials recycling. 
+We primarily focus on liquid-phase separation, such as solvent extraction. We look at design and develop sustainable and cost-effective separation processes for our near future. Application areas include high-valued separation tasks (e.g. pharmaceutical purification), downstream separations for new feedstocks (e.g. from bio-fermentation broth), end-of-life closed-loop materials recycling (e.g. metals, polymers, rare earth elements).
 
-Here are some research topic that we currently focus on:
+Here are some research topics that we currently focus on:
 
 <br>
 
@@ -22,7 +22,8 @@ Here are some research topic that we currently focus on:
 
 <div style="flex: 1;">
 <h4>Liquid-liquid fundamentals</h4>
-Liquid-liquid system is fundamental to origin of life, multiphase reaction system, also critical for separation system like solvent extraction. In an extraction device, multiple phenomena can occur, such as droplet breakup, coalescence, mass transfer across the interface, which will determine the overall extraction performances. With the advanced imaging measurements along with computer vision tools, we are able to capture the snapshots of these phenomena and extract useful information to better understand the underlying mechanisms of the separation processes.
+Understanding liquid-liquid fundamental phenomena is key the success of solvent extraction processes. 
+In an extraction device, usually one liquid phase forms as droplets and contact with the other liquid phase through an interface. The interactions of the droplets (i.e. breakup and coalescence) and the molecules transport or reactions at the interface will plays a key role in determining the overall extraction performances. With the advanced imaging techniques along with computer vision, we are able to capture the snapshots of these phenomena and extract useful information to better understand the underlying mechanisms of the separation processes. 
 </div>
 
 <div style="flex: 0 0 300px;">
@@ -39,7 +40,7 @@ Liquid-liquid system is fundamental to origin of life, multiphase reaction syste
 
 <div style="flex: 1;">
 <h4>Automated experimental platform for separations</h4>
-Identifying the key physicochemical properties (e.g. partition coefficient, liquid-liquid equilibria) is essential to screen extractants/solvents and design liquid-liquid extraction process, however, this can be very labour-intensive by repeated shake-up tests. We design workflows to automate liquid handling and measurements, by leveraging robotics and multiple types of sensors. This will enable us to collect key information in a high-throughput way and screen a large design space in a short time.
+Identifying the key physicochemical properties (e.g. partition coefficient) is essential to screen extractants/solvent systems and design new separation process. However, getting data is not straightforward and this can be very labour-intensive with repeated shake-up tests. By leveraging robotics and multiple types of sensors, we design experimental workflows to automate liquid handling and measurements of multicomponent systems. This will enable us to collect key information of separation systems in a high-throughput manner. The high-quality data collected from the experiments could be used later for training predictive machine learning models.
 </div>
 
 <div style="flex: 0 0 300px;">
@@ -55,7 +56,7 @@ Identifying the key physicochemical properties (e.g. partition coefficient, liqu
 
 <div style="flex: 1;">
 <h4>AI-assisted separation process development</h4>
-Moving from lab to manufacturing is never easy. In an ideal scenario, we could have digital twin that can simulate the separation process and predict at large scale. For this, we develop process models to formulate our formulate and test our understanding of the process. Furthermore, we design AI agents (such as reinforcement learning) working as human modelers to assemble models automatically for a given process.
+Moving from lab to manufacturing is never easy. We develop mechanistic models based on first principles to describe a single separation device or a separation process. This allows us to understand the complexity of separation systems, as well as to create a “digital twin” of the separation process to support model-based process optimisation or environmental and techno-economic assessments. We are interested in designing AI agents to help us automating the modelling workflow. This includes model knowledge representation in a digital format, automated model assembly as well as model calibration.
 </div>
 
 <div style="flex: 0 0 300px;">
@@ -70,7 +71,7 @@ Moving from lab to manufacturing is never easy. In an ideal scenario, we could h
 
 <div style="flex: 1;">
 <h4>Novel separation processes</h4>
-Let’s imagine some bold ideas! New separations approaches are on the horizon, such as designing new functional materials/solvent systems with high selectivity, or using electrochemical, or designing new separation devices. Chemical space is often large to identify the best, we use Bayesian optimisation discover the best in an efficient way. 
+Let’s imagine some bold ideas! New separations technologies are on the horizon, this always requires novel design of advanced materials (e.g. ligands, green solvents), use of new driving forces (e.g. electric, microwave, light), as well as designing new separation devices. These design tasks often encounter “inverse” problems, such as, how to design a novel separation system with desired selectivity, or how to design a new material that balance the conflicting trade-offs. We apply AI-guided algorithms (e.g. Bayesian optimisation) to navigate our search in a large design space and be able to discover the best outcomes in an efficient way. 
 </div>
 
 <div style="flex: 0 0 300px;">
