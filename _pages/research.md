@@ -25,7 +25,7 @@ Here are some research topics that we currently focus on:
 Understanding liquid-liquid fundamental phenomena is key the success of solvent extraction processes. 
 In an extraction device, usually one liquid phase forms as droplets and contact with the other liquid phase through an interface. 
 The interactions of the droplets (i.e. breakup and coalescence) and the molecules transport or reactions at the interface will plays a key role in determining the overall extraction performances. 
-With the <strong>advanced imaging techniques</strong> along with <strong>computer vision<strong>, we are able to capture the snapshots of these phenomena and extract useful information to better understand the underlying mechanisms of the separation processes. 
+With the <strong>advanced imaging techniques</strong> along with <strong>computer vision</strong>, we are able to capture the snapshots of these phenomena and extract useful information to better understand the underlying mechanisms of the separation processes. 
 </div>
 
 <div style="flex: 0 0 300px;">
@@ -42,7 +42,11 @@ With the <strong>advanced imaging techniques</strong> along with <strong>compute
 
 <div style="flex: 1;">
 <h4>Automated experimental platform for separations</h4>
-Identifying the key physicochemical properties (e.g. partition coefficient) is essential to screen extractants/solvent systems and design new separation process. However, getting data is not straightforward and this can be very labour-intensive with repeated shake-up tests. By leveraging robotics and multiple types of sensors, we design experimental workflows to automate liquid handling and measurements of multicomponent systems. This will enable us to collect key information of separation systems in a high-throughput manner. The high-quality data collected from the experiments could be used later for training predictive machine learning models.
+Identifying the key physicochemical properties (e.g. partition coefficient) is essential to screen extractants/solvent systems and design new separation process. 
+However, getting data is not straightforward and this can be very labour-intensive with repeated shake-up tests. 
+By leveraging <strong>robotics</strong> and multiple types of <strong>sensing techniques</strong>, we design experimental workflows to <strong>automate</strong> liquid handling and measurements of multicomponent systems. 
+This will enable us to collect key information of separation systems in a <strong>high-throughput manner</strong>. 
+The high-quality data collected from the experiments could be used later for training predictive <strong>machine learning models</strong>.
 </div>
 
 <div style="flex: 0 0 300px;">
