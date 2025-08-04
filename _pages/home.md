@@ -16,7 +16,7 @@ working on **chemical separation challenges** with the help of **artificial inte
 [Learn more about our research]({{ site.url }}{{ site.baseurl }}/research)
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" width="70%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" width="70%" style="display: block; margin: auto;">
 </figure>
 
 We are always looking for passionate **PhD students, Postdocs, and Master students** to join our team!
