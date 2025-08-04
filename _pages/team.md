@@ -14,9 +14,9 @@ We welcome talents from all over the world to join our team!
 
 #### Principal Investigator
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
 
-<div style="flex: 1;">
+<div style="flex: 1; min-width: 250px;">
 
 **Jiyizhe Zhang**
 
@@ -27,7 +27,7 @@ Starting from 2017, she took a jointly awarded PhD programme working with Prof. 
 She received her PhD in 2022 and then joined University of Cambridge as a postdoctoral researcher in Prof. Alexei Lapkin's group, focusing on develop artificial intelligence (AI) and lab automation workflows to accelerate process development.
 </div>
 
-<div style="flex: 0 0 300px;">
+<div style="flex: 0 0 300px; min-width: 250px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/3_others/Jiyizhe.jpg" class="img-fluid d-block mx-auto" alt="profile image" style="width: 70%;">
 </div>
 

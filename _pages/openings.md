@@ -30,12 +30,11 @@ We are always looking for passionate individuals to join our team! Our job openi
 
 
 
-#### Applications for PhD Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an email at **jiyizhe.zhang@manchester.ac.uk**. 
-State briefly your motivation and attach a CV.
+#### PhD and Postdoc projects
+If you are interested in working with us as a PhD student or a postdoc, please send me an email at **jiyizhe.zhang@manchester.ac.uk**. 
+State briefly about your motivation and attach a CV.
 
-We especially welcome postdocs with fellowships. I'd be happy to support you. 
-Here are some funding opportunities highly relevant to our research:
+We especially welcome postdocs with fellowships. Here are some funding opportunities highly relevant to our research:
 
 - [Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 
