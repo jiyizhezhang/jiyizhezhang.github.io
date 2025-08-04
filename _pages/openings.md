@@ -10,7 +10,11 @@ permalink: /vacancies/
 
 We are always looking for passionate individuals to join our team! Our job openings will be listed here, also are advertised on the [website](https://www.ce.manchester.ac.uk/study/postgraduate-research/projects/).
 
-**We currently have no open positions**
+<br>
+
+#### Current open positions
+
+*We currently have no open positions*
 
 <br>
 
