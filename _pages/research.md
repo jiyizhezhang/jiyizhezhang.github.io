@@ -76,9 +76,9 @@ We are interested in designing <strong>AI agents</strong> to help us automating 
 
 
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
 
-<div style="flex: 1;">
+<div style="flex: 1; min-width: 250px;">
 <h4>Novel separation processes</h4>
 Let’s imagine some bold ideas! 
 New separations technologies are on the horizon, this always requires novel designs of advanced materials (e.g. ligands, green solvents), leveraging new driving forces (e.g. electric, microwave, light), as well as designing new separation devices. 
@@ -86,7 +86,7 @@ These design tasks often encounter <strong>“inverse” problems</strong>, such
 We apply <strong>AI-guided algorithms</strong> (e.g. Bayesian optimisation) to navigate our search in a large design space and be able to answer these questions.
 </div>
 
-<div style="flex: 0 0 300px;">
+<div style="flex: 0 0 300px; min-width: 250px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/4.png" class="img-fluid d-block mx-auto" alt="novel sep" style="width: 70%;">
 </div>
 
