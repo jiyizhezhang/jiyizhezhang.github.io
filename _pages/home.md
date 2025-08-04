@@ -18,7 +18,7 @@ working on **chemical separation challenges** with the help of **artificial inte
 <br>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" width="70%" style="display: block; margin: auto;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/1_home/home.png" class="img-fluid d-block mx-auto" alt="Home image" style="width: 70%;">
 </figure>
 
 <br>
