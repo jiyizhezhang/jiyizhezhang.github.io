@@ -23,7 +23,9 @@ Here are some research topics that we currently focus on:
 <div style="flex: 1;">
 <h4>Liquid-liquid fundamentals</h4>
 Understanding liquid-liquid fundamental phenomena is key the success of solvent extraction processes. 
-In an extraction device, usually one liquid phase forms as droplets and contact with the other liquid phase through an interface. The interactions of the droplets (i.e. breakup and coalescence) and the molecules transport or reactions at the interface will plays a key role in determining the overall extraction performances. With the advanced imaging techniques along with computer vision, we are able to capture the snapshots of these phenomena and extract useful information to better understand the underlying mechanisms of the separation processes. 
+In an extraction device, usually one liquid phase forms as droplets and contact with the other liquid phase through an interface. 
+The interactions of the droplets (i.e. breakup and coalescence) and the molecules transport or reactions at the interface will plays a key role in determining the overall extraction performances. 
+With the <strong>advanced imaging techniques</strong> along with <strong>computer vision<strong>, we are able to capture the snapshots of these phenomena and extract useful information to better understand the underlying mechanisms of the separation processes. 
 </div>
 
 <div style="flex: 0 0 300px;">
