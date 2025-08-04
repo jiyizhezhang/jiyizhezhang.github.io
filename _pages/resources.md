@@ -17,6 +17,7 @@ Group Github repository is on the way...
 
 #### Group Wiki
 
-Group wiki is on the way...
+You could find research resources on our group wiki (group members only). 
+This could help you to start quickly. [link](https://app.nuclino.com/Zhang-Group/Research)
 
-<br><br>
+<br>

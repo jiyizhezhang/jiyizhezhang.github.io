@@ -48,7 +48,7 @@ Identifying the key physicochemical properties (e.g. partition coefficient) is e
 However, getting data is not straightforward and this can be very labour-intensive with repeated shake-up tests. 
 By leveraging <strong>robotics</strong> and multiple types of <strong>sensing techniques</strong>, we design experimental workflows to automate liquid handling and measurements of multicomponent systems. 
 This will enable us to collect key information of separation systems in a high-throughput manner. 
-The high-quality data collected from the experiments could be used later for training predictive <strong>machine learning models</strong>.
+The high-quality data collected from the experiments could be used later for training predictive machine learning models.
 </div>
 
 <div style="flex: 0 0 300px; min-width: 250px;">
