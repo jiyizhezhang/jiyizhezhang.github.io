@@ -62,7 +62,10 @@ The high-quality data collected from the experiments could be used later for tra
 
 <div style="flex: 1;">
 <h4>AI-assisted separation process development</h4>
-Moving from lab to manufacturing is never easy. We develop mechanistic models based on first principles to describe a single separation device or a separation process. This allows us to understand the complexity of separation systems, as well as to create a “digital twin” of the separation process to support model-based process optimisation or environmental and techno-economic assessments. We are interested in designing AI agents to help us automating the modelling workflow. This includes model knowledge representation in a digital format, automated model assembly as well as model calibration.
+Moving from lab to manufacturing is never easy. 
+We develop mechanistic models based on first principles to describe a single separation device or a separation process. 
+This allows us to understand the complexity of separation systems, as well as to create a <strong>“digital twin”</strong> of the separation process to support model-based process optimisation or environmental and techno-economic assessments. 
+We are interested in designing <strong>AI agents</strong> to help us automating the modelling workflow. This includes model knowledge representation in a digital format, automated model assembly as well as model calibration.
 </div>
 
 <div style="flex: 0 0 300px;">
@@ -77,7 +80,10 @@ Moving from lab to manufacturing is never easy. We develop mechanistic models ba
 
 <div style="flex: 1;">
 <h4>Novel separation processes</h4>
-Let’s imagine some bold ideas! New separations technologies are on the horizon, this always requires novel design of advanced materials (e.g. ligands, green solvents), use of new driving forces (e.g. electric, microwave, light), as well as designing new separation devices. These design tasks often encounter “inverse” problems, such as, how to design a novel separation system with desired selectivity, or how to design a new material that balance the conflicting trade-offs. We apply AI-guided algorithms (e.g. Bayesian optimisation) to navigate our search in a large design space and be able to discover the best outcomes in an efficient way. 
+Let’s imagine some bold ideas! 
+New separations technologies are on the horizon, this always requires novel designs of advanced materials (e.g. ligands, green solvents), leveraging new driving forces (e.g. electric, microwave, light), as well as designing new separation devices. 
+These design tasks often encounter <strong>“inverse” problems</strong>, such as, how to design a novel separation system with desired selectivity, or how to design a new material that balance the conflicting trade-offs. 
+We apply <strong>AI-guided algorithms</strong> (e.g. Bayesian optimisation) to navigate our search in a large design space and be able to answer these questions.
 </div>
 
 <div style="flex: 0 0 300px;">
