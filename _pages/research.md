@@ -12,7 +12,7 @@ permalink: /research/
 
 In the group, we look for innovative ways to solve chemical separation challenges with the help of **artificial intelligence**, **lab automation** and **modelling tools**, to accelerate the discovery and development of separation processes. This ranges from understanding fundamental interfacial phenomena, designing novel separation systems and developing models for in silico prediction of separation performances at large scale. 
 
-We primarily focus on liquid-phase separation, such as solvent extraction. We look at design and develop sustainable and cost-effective separation processes for our near future. Application areas include high-valued separation tasks (e.g. pharmaceutical purification), downstream separations for new feedstocks (e.g. from bio-fermentation broth), end-of-life closed-loop materials recycling (e.g. metals, polymers, rare earth elements).
+We primarily focus on liquid-phase separation, such as solvent extraction. We look at design and develop sustainable and cost-effective separation processes for our near future. Application areas include high-valued separation tasks (e.g. pharmaceutical purification), downstream separations for new feedstocks (e.g. from bio-fermentation broth), end-of-life closed-loop materials recycling (e.g. metals, rare earth elements).
 
 Here are some research topics that we currently focus on:
 
