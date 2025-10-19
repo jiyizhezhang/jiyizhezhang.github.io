@@ -17,13 +17,13 @@ We primarily focus on liquid-phase separation (such as solvent extraction).
 This ranges from understanding fundamental transport phenomena, designing novel extraction systems, to developing process models for in silico prediction of separation performances at large scale.
 
 <div style="flex: 0 0 300px; min-width: 250px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/overall.png" 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/overall2.png" 
         class="img-fluid d-block mx-auto" 
-        alt="overall" 
+        alt="overall2" 
         style="width: 105%;">
 </div>
 
-With the help of artificial intelligence, robotics experimentation and modelling tools, we aim at 
+With the help of artificial intelligence, robotics experimentation and modelling tools, we aim at: 
 1. Understanding the complexity of separation science
 2. Accelerating separation process design and development 
 3. Reducing cost and environmental impact from in silico testing and optimisation
