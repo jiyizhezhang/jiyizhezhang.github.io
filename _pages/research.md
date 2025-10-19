@@ -25,19 +25,19 @@ This ranges from understanding fundamental transport phenomena, designing novel 
   <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/overall.png" 
         class="img-fluid d-block mx-auto" 
         alt="overall" 
-        style="width: 80%;">
+        style="width: 100%;">
 </div>
 
 <br>
 
 **Our goals**
 <br>
-With the help of artificial intelligence, robotics experimentation and modelling tools, we aim at
-Understanding the complexity of separation science
-2.	Accelerating separation process design and development 
-3.	Reducing cost and environmental impact from in silico testing and optimisation
+With the help of artificial intelligence, robotics experimentation and modelling tools, we aim at 
+1. Understanding the complexity of separation science
+2. Accelerating separation process design and development 
+3. Reducing cost and environmental impact from in silico testing and optimisation
 
-
+<br>
 
 
 [//]: # (1.Liquid-liquid fundamentals)
