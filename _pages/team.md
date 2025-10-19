@@ -20,11 +20,12 @@ We always welcome motivated talents from all over the world to join our team!
 
 **Jiyizhe Zhang**
 
-*Lecturer (Assistant Professor) in Chemical Engineering, University of Manchester*
+*Lecturer/Assistant Professor (Research and Teaching) in Chemical Engineering, University of Manchester*
 
 Dr. Jiyizhe Zhang studied chemical engineering in her undergraduate. 
-Starting from 2017, she took a jointly awarded PhD programme working with Prof. Yundong Wang and Prof. Weiyang Fei at Tsinghua University, and Prof. Geoff Stevens and Prof. Kathryn Mumford at the University of Melbourne, working on modelling of continuous solvent extraction processes for pharmaceutical applications.
-She received her PhD in 2022 and then joined University of Cambridge as a postdoctoral researcher in Prof. Alexei Lapkin's group, focusing on develop artificial intelligence (AI) and lab automation workflows to accelerate process development.
+Starting from 2017, she took a jointly awarded PhD programme between Tsinghua University and the University of Melbourne, working on modelling of continuous solvent extraction processes for pharmaceutical applications.
+She received her PhD in 2022 and then joined University of Cambridge as a postdoctoral researcher, focusing on digital manufacturing by exploring artificial intelligence (AI) and robotic experimentation to accelerate chemical process development.
+From 01/2025, she became Senior Research Associate at Cambridge (now Research Assistant Professor) prior to moving to University of Manchester.
 </div>
 
 <div style="flex: 0 0 300px; min-width: 250px;">
