@@ -23,7 +23,7 @@ This ranges from understanding fundamental transport phenomena, designing novel 
   <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/overall.png" 
         class="img-fluid d-block mx-auto" 
         alt="overall" 
-        style="width: 100%;">
+        style="width: 105%;">
 </div>
 
 
