@@ -9,8 +9,6 @@ permalink: /research/
 ### Research
 
 
-**Overview**
-<br>
 Chemical separations have long been essential to human society. 
 However, purifying component from mixtures is often complex, costly, and energy-intensive.
 
@@ -26,9 +24,6 @@ This ranges from understanding fundamental transport phenomena, designing novel 
         style="width: 105%;">
 </div>
 
-
-**Our goals**
-<br>
 With the help of artificial intelligence, robotics experimentation and modelling tools, we aim at 
 1. Understanding the complexity of separation science
 2. Accelerating separation process design and development 
