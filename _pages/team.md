@@ -20,7 +20,9 @@ We always welcome motivated talents from all over the world to join our team!
 
 **Jiyizhe Zhang**
 
-*Lecturer/Assistant Professor (Research and Teaching), Department of Chemical Engineering, University of Manchester*
+*Lecturer/Assistant Professor (Research and Teaching), 
+Department of Chemical Engineering, 
+University of Manchester*
 
 Dr. Jiyizhe Zhang studied chemical engineering in her undergraduate. 
 Starting from 2017, she took a jointly awarded PhD programme between Tsinghua University and the University of Melbourne, working on modelling of continuous solvent extraction processes for pharmaceutical applications.
@@ -29,7 +31,10 @@ From 01/2025, she became Senior Research Associate at Cambridge (now Research As
 </div>
 
 <div style="flex: 0 0 300px; min-width: 250px; margin-left: 40px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/3_others/Jiyizhe2.jpg" class="img-fluid d-block mx-auto" alt="profile image" style="width: 70%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/3_others/Jiyizhe2.jpg" 
+        class="img-fluid d-block mx-auto" 
+        alt="profile image" 
+        style="width: 80%;border-radius:0;">
 </div>
 
 </div>
