@@ -31,7 +31,7 @@ From 01/2025, she became Senior Research Associate at Cambridge (now Research As
 </div>
 
 <div style="flex: 0 0 300px; min-width: 250px; margin-left: 40px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/3_others/Jiyizhe2.jpg" 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/3_others/Jiyizhe3.jpg" 
         class="img-fluid d-block mx-auto" 
         alt="profile image" 
         style="width: 75%;border-radius:0;">
