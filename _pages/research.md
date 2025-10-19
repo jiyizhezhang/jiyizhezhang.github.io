@@ -17,9 +17,7 @@ However, purifying component from mixtures is often complex, costly, and energy-
 <br>
 In the group, we look for innovative ways to solve chemical separation challenges with the help of artificial intelligence, robotics experimentation and modelling tools, to accelerate the development of separation processes. 
 We primarily focus on liquid-phase separation (such as solvent extraction). 
-This ranges from understanding fundamental transport phenomena, designing novel extraction systems, to developing process models for in silico prediction of separation performances at large scale. 
-
-<br>
+This ranges from understanding fundamental transport phenomena, designing novel extraction systems, to developing process models for in silico prediction of separation performances at large scale.
 
 <div style="flex: 0 0 300px; min-width: 250px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/overall.png" 
@@ -28,7 +26,6 @@ This ranges from understanding fundamental transport phenomena, designing novel 
         style="width: 100%;">
 </div>
 
-<br>
 
 **Our goals**
 <br>
