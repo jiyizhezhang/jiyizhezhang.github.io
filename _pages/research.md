@@ -17,9 +17,9 @@ We primarily focus on liquid-phase separation (such as solvent extraction).
 This ranges from understanding fundamental transport phenomena, designing novel extraction systems, to developing process models for in silico prediction of separation performances at large scale.
 
 <div style="flex: 0 0 300px; min-width: 250px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/overall2.png" 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/overall.png" 
         class="img-fluid d-block mx-auto" 
-        alt="overall2" 
+        alt="overall" 
         style="width: 105%;">
 </div>
 
