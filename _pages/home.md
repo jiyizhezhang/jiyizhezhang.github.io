@@ -18,7 +18,7 @@ We aim to tackle chemical separation challenges for our sustainable future with 
 <br>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/1_home/UoM.png" class="img-fluid d-block mx-auto" alt="Home image" style="width: 70%;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/1_home/UoM.jpg" class="img-fluid d-block mx-auto" alt="Home image" style="width: 70%;">
 </figure>
 
 <br>
