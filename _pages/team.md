@@ -20,7 +20,7 @@ We always welcome motivated talents from all over the world to join our team!
 
 **Jiyizhe Zhang**
 
-*Lecturer/Assistant Professor (Research and Teaching) in Chemical Engineering, University of Manchester*
+*Lecturer/Assistant Professor (Research and Teaching), Department of Chemical Engineering, University of Manchester*
 
 Dr. Jiyizhe Zhang studied chemical engineering in her undergraduate. 
 Starting from 2017, she took a jointly awarded PhD programme between Tsinghua University and the University of Melbourne, working on modelling of continuous solvent extraction processes for pharmaceutical applications.

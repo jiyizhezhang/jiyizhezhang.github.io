@@ -18,12 +18,12 @@ We aim to tackle chemical separation challenges for our sustainable future with 
 <br>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/1_home/Uni.png" class="img-fluid d-block mx-auto" alt="Home image" style="width: 70%;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/1_home/Uni.png" class="img-fluid d-block mx-auto" alt="Home image" style="width: 80%;">
 </figure>
 
 <br>
 
-We are always looking for passionate PhD students, Postdocs, and Master/Undergraduate students to join our team!
+We are always looking for passionate Postdocs, PhD students, and Master/Undergraduate students to join our team!
 
 
 
