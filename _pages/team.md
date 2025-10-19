@@ -20,7 +20,7 @@ We always welcome motivated talents from all over the world to join our team!
 
 **Jiyizhe Zhang**
 
-*Lecturer/Assistant Professor (Research and Teaching), 
+*Lecturer/Assistant Professor, 
 Department of Chemical Engineering, 
 University of Manchester*
 
@@ -34,7 +34,7 @@ From 01/2025, she became Senior Research Associate at Cambridge (now Research As
   <img src="{{ site.url }}{{ site.baseurl }}/images/3_others/Jiyizhe2.jpg" 
         class="img-fluid d-block mx-auto" 
         alt="profile image" 
-        style="width: 80%;border-radius:0;">
+        style="width: 75%;border-radius:0;">
 </div>
 
 </div>
