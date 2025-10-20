@@ -1,7 +1,7 @@
 ---
 title: "Zhang Group - Home"
 layout: homelay
-excerpt: "Zhang Group at UoM."
+excerpt: "."
 sitemap: false
 permalink: /
 ---
@@ -24,10 +24,9 @@ We aim to tackle chemical separation challenges for our sustainable future with 
     style="width: 95%; border-radius:0;">
 </figure>
 
-<br>
-
 We are always looking for passionate Postdocs, PhD students, and Master/Undergraduate students to join our team!
 
+<br>
 
 
 
