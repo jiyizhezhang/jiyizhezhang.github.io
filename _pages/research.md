@@ -13,7 +13,7 @@ Chemical separations have long been essential to human society.
 However, purifying component from mixtures is often complex, costly, and energy-intensive.
 In the group, we look for innovative ways to solve chemical separation challenges with the help of artificial intelligence, robotics experimentation and modelling tools, to accelerate the development of separation processes. 
 We primarily focus on liquid-phase separation (e.g. solvent extraction), with various applications from the start (e.g. feedstock transition), to the end of the chemical value chain (e.g. end-of-life recycling).
-This ranges from understanding fundamental transport phenomena, designing novel extraction systems, to developing process models for in silico prediction of separation performances at large scale.
+This ranges from understanding fundamental transport phenomena, designing novel extraction systems, to developing process models for *in silico* prediction of separation performances at large scale.
 
 <div style="flex: 0 0 300px; min-width: 250px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/2_researchtopics/overall.png" 
@@ -22,7 +22,7 @@ This ranges from understanding fundamental transport phenomena, designing novel 
         style="width: 105%;">
 </div>
 
-With the help of artificial intelligence, robotics experimentation and modelling tools, we aim at: 
+With the help of digital tools, we aim at: 
 1. Understanding the complexity of separation science
 2. Accelerating separation process design and development 
 3. Reducing cost and environmental impact from in silico testing and optimisation
@@ -36,10 +36,10 @@ With the help of artificial intelligence, robotics experimentation and modelling
 
 <div style="flex: 1; min-width: 250px;">
 <h4>Liquid-liquid fundamentals</h4>
-Understanding liquid-liquid fundamental phenomena is key the success of separation process like solvent extraction. 
+Understanding liquid-liquid fundamental phenomena is important to the success of separation process like solvent extraction. 
 In an extraction device, usually one liquid phase forms as droplets and contact with the other liquid phase through an interface. 
-The interactions of the droplets (i.e. breakup and coalescence) and the molecules transport or reactions at the interface will plays a key role in determining the overall extraction performances. 
-With the advanced imaging techniques along with computer vision, we are able to capture the snapshots of these phenomena and extract useful information to better understand the underlying mechanisms of the separation processes. 
+The interactions between the droplets (i.e. breakup and coalescence) and the molecules transport or reactions at the interface will plays a key role in determining the overall extraction performances. 
+With the advanced imaging techniques and computer vision, we are able to capture the snapshots of these phenomena and extract useful information to better understand the underlying mechanisms of the separation processes. 
 </div>
 
 <div style="flex: 0 0 300px; min-width: 250px;">
@@ -56,7 +56,7 @@ With the advanced imaging techniques along with computer vision, we are able to 
 
 <div style="flex: 1; min-width: 250px;">
 <h4>Autonomous experimental platform for separations</h4>
-Identifying the key physicochemical properties (e.g. partition coefficient) is essential to screen extractants/solvent systems and design new separation processes. 
+Identifying the key physicochemical properties (e.g. partition coefficient) is essential to screen novel solvent systems and design new separation processes. 
 However, getting data is not straightforward and this can be very labour-intensive with repeated shake-up tests. 
 By leveraging robotics and multiple types of sensors, we design experimental workflows to automate liquid handling and measurements of liquid-liquid systems. 
 This will enable us to collect key information of separation systems in a high-throughput manner. 
