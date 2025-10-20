@@ -25,7 +25,7 @@ This ranges from understanding fundamental transport phenomena, designing novel 
 With the help of digital tools, we aim at: 
 1. Understanding the complexity of separation science
 2. Accelerating separation process design and development 
-3. Reducing cost and environmental impact from in silico testing and optimisation
+3. Reducing cost and environmental impact from *in silico* testing and optimisation
 
 <br>
 
