@@ -18,7 +18,7 @@ We always welcome motivated talents from all over the world to join our team!
 
 <div style="flex: 1; min-width: 250px;">
 
-**Jiyizhe Zhang**
+**Dr Jiyizhe Zhang**
 
 *Lecturer/Assistant Professor, 
 Department of Chemical Engineering, 
@@ -47,6 +47,7 @@ Since 01/2025, she became Senior Research Associate at Cambridge (now Research A
 #### Postdoctoral Researchers
 
 This could be you!
+<br>
 
 #### PhD Students
 

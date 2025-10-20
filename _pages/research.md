@@ -57,7 +57,7 @@ With the advanced imaging techniques and computer vision, we are able to capture
 <div style="flex: 1; min-width: 250px;">
 <h4>Autonomous experimental platform for separations</h4>
 Identifying the key physicochemical properties (e.g. partition coefficient) is essential to screen novel solvent systems and design new separation processes. 
-However, getting data is not straightforward and this can be very labour-intensive with repeated shake-up tests. 
+However, getting data is not straightforward with repeated measurements. 
 By leveraging robotics and multiple types of sensors, we design experimental workflows to automate liquid handling and measurements of liquid-liquid systems. 
 This will enable us to collect key information of separation systems in a high-throughput manner. 
 Meanwhile, we also design “closed-loop” platforms for autonomous optimisation of separation processes, to identify the optimal experimental conditions for scale-up.
