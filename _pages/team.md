@@ -58,13 +58,16 @@ This could be you!
 
 #### Former supervised students
 
-**Mathis Heyer**
+[//]: # (**Mathis Heyer**)
 
-2023.4-2023.10 @ University of Cambridge, now PhD student at Stanford University
+[//]: # ()
+[//]: # (2023.4-2023.10 @ University of Cambridge, now PhD student at Stanford University)
 
-**Jan Laub-Fridric**
+[//]: # ()
+[//]: # (**Jan Laub-Fridric**)
 
-2024.4-2024.10 @ University of Cambridge, now PhD student at ETH
+[//]: # ()
+[//]: # (2024.4-2024.10 @ University of Cambridge, now PhD student at ETH)
 
 <br><br>
 
