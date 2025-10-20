@@ -14,7 +14,7 @@ We are always looking for passionate individuals to join our team! Our job openi
 
 #### Current open positions
 
-*We currently have no open positions*
+We are looking for a PhD student to join our group, starting from September 2026. For more information, please reach out to discuss.
 
 <br>
 
