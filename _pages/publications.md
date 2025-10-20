@@ -23,6 +23,8 @@ Looking forward :)
 
 #### Before joining UoM
 
+[12] Y Shen<sup>1</sup>, J Zhang<sup>1</sup>, X Liang, K Wang*. [From Optimization to Mechanism: Bayesian Optimization-Guided Exploration of p-Xylene Electro-oxidation](https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.5c06927) *ACS Sustainable Chemistry & Engineering*, 2025, 13 (39), 16601–16610.
+
 [11] JF Laub, J Zhang*, M Heyer, A Lapkin*. [Automated Generation of Mechanistic Models for Chemical Process Digital Twins using Reinforcement Learning-Part II: Compartmentalization and Learning-Based Recalibration](https://www.sciencedirect.com/science/article/pii/S0098135425003874) *Computers & Chemical Engineering*, 2025, 204,  109384.
 
 [10] M Heyer, J Zhang*, N Sugisawa, JF Laub, A Lapkin*. [Automated Generation of Mechanistic Models for Chemical Process Digital Twins using Reinforcement Learning-Part I: Conceptual Framework and Equation Generation](https://doi.org/10.1016/j.compchemeng.2025.109281) *Computers & Chemical Engineering*, 2025, 202, 109281.
