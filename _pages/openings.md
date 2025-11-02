@@ -9,12 +9,12 @@ permalink: /vacancies/
 ### Open positions
 
 We are always looking for passionate individuals to join our team! Our job openings will be listed here, also are advertised on the [website](https://www.ce.manchester.ac.uk/study/postgraduate-research/projects/).
-
+We also welcome visiting academic and students for collaborative research.
 <br>
 
 #### Current open positions
 
-We are looking for a PhD student to join our group, starting from September 2026. For more information, please reach out to discuss.
+We are looking for a PhD student to join our group, starting from September 2026. The position will be opened in November 2025. For more information, please reach out to discuss.
 
 <br>
 
@@ -30,11 +30,22 @@ We are looking for a PhD student to join our group, starting from September 2026
 
 
 
-#### PhD and Postdoc projects
+#### PhD and Postdoc scholarship/fellowships
 If you are interested in working with us as a PhD student or a postdoc, please send me an email at **jiyizhe.zhang@manchester.ac.uk**. 
-State briefly about your motivation and attach a CV.
+Please attach your CV and a brief statement of your motivation.
 
-We especially welcome postdocs with fellowships. Here are some funding opportunities highly relevant to our research:
+Here are some scholarship opportunities for PhD applicants (for 2026 Fall entry):
+
+- [President's Doctoral Scholarship](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/presidents-doctoral-scholarship/)
+
+- [Dean's Doctoral Scholarship](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/deans-doctoral-scholarship/)
+
+- [CSC joint scholarship](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/china-scholarship-council-joint-scholarship/)
+
+- [Dual-award PhD Program](https://www.manchester.ac.uk/study/postgraduate-research/golden/)
+
+
+Here are some fellowship opportunities for Postdoc applicants that are highly relevant to our research:
 
 - [Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 
@@ -45,7 +56,7 @@ We especially welcome postdocs with fellowships. Here are some funding opportuni
 <br>
 
 
-#### Master projects
-If you are looking for a Master project, please contact me via email or stop by my office if you are in UoM.
+#### Master/Undergraduate projects
+If you are looking for a MEng/MSc project, please contact me via email or stop by my office (MECD Floor 4 - Office 27) if you are in UoM.
 
 <br><br>
