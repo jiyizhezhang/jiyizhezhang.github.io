@@ -10,6 +10,7 @@ permalink: /vacancies/
 
 We are always looking for passionate individuals to join our team! Our job openings will be listed here, also are advertised on the [website](https://www.ce.manchester.ac.uk/study/postgraduate-research/projects/).
 We also welcome visiting academic and students for collaborative research.
+
 <br>
 
 #### Current open positions
@@ -32,7 +33,7 @@ We are looking for a PhD student to join our group, starting from September 2026
 
 #### PhD and Postdoc scholarship/fellowships
 If you are interested in working with us as a PhD student or a postdoc, please send me an email at **jiyizhe.zhang@manchester.ac.uk**. 
-Please attach your CV and a brief statement of your motivation.
+Please attach your CV and a brief statement of your motivation, please use the email title "PhD/Postdoc Inquiry-Your Name".
 
 Here are some scholarship opportunities for PhD applicants (for 2026 Fall entry):
 
