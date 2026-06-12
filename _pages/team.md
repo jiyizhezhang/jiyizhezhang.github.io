@@ -52,13 +52,32 @@ This could be you!
 
 #### PhD Students
 
-This could be you!
+**Aisel Eldwiny**
+
+MEng @ University of Manchester
+
 
 <br>
 
 #### Master and Undergraduate Students
 
-This could be you!
+**Miguel Chen**
+
+MEng dissertation, 2025-2026 
+
+Project: Automated process design for bio-downstream separation using multi agent systems
+
+**Selim El-Sharkawi**
+
+Summer intern, 2026
+
+Project: Large language model assisted extraction system design
+
+**Yu Lay Naung**
+
+Summer intern, 2026
+
+Project: An autonomous experimental platform for liquid-liquid extraction 
 
 <br>
 

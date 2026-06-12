@@ -15,7 +15,7 @@ We also welcome visiting academic and students for collaborative research.
 
 #### Current open positions
 
-We are looking for a PhD student to join our group, starting from September 2026. The position will be opened in November 2025. For more information, please reach out to discuss.
+We don't have open positions at the moment, but stay tuned for future updates! If you find our research interesting, please do reach out. 
 
 <br>
 

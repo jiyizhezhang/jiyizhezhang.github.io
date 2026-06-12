@@ -15,11 +15,15 @@ Full list of publications can be found on [Google Scholar](https://scholar.googl
 
 #### After joining UoM
 
-Looking forward :)
-
 <br>
 
+[16] S Zhang<sup>1</sup>, J Zhang<sup>1</sup>, A Lapkin<sup>*</sup>. [A knowledge graph framework for digital twins of chemical processes Nature Chemical Engineering](https://www.nature.com/articles/s44286-026-00392-1) *Nature Chemical Engineering*, 2026, 3, 286–297.
 
+[15] M Qu, Z Ding, D Zhang, S Foroughi, H Chen, Z Yu, J Zhang, L Xiao, MJ Blunt, X Fan<sup>*</sup>, Q Lin<sup>*</sup>. [A Machine Learning-Driven Pore-Scale Network Model Coupling Reaction Kinetics and Interparticle Transport for Catalytic Process Design](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202513649) *Advanced Science*, 2026, 13 (8), e13649.
+
+[14] X Liang, Y Xie, J Zhang, W Huang, B Pan, XY Tai, J Xuan, A Lapkin, H Wang<sup>*</sup>. [Autonomous in silico optimization framework for high-performance micromixers](https://www.sciencedirect.com/science/article/pii/S1385894726004146) *Chemical Engineering Journal*, 2026, 529, 172957.
+
+[13] J Zhang, S Zhang, A Lapkin. [AI4X Roadmap: Artificial Intelligence for the advancement of scientific pursuit and its future directions](https://arxiv.org/pdf/2511.20976) arXiv, 2025, arXiv:2511.20976
 
 #### Before joining UoM
 
