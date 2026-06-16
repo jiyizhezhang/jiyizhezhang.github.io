@@ -60,15 +60,11 @@ Here are some fellowship opportunities for Postdoc applicants that are highly re
 #### Master/Undergraduate projects
 If you are looking for a MEng/MSc project, please contact me via email or stop by my office (MECD Floor 4 - Office 27) if you are in UoM.
 
-<br><br>
-
-
-
 <br>
 
+
+
 #### Group activities
-
-
 
 <div class="activity-slider" id="group-activity-slider">
 
