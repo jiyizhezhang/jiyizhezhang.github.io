@@ -75,12 +75,12 @@ If you are looking for a MEng/MSc project, please contact me via email or stop b
   <div class="activity-slides">
 
     <div class="activity-slide active">
-      <img src="{{ site.baseurl }}/images/4_activities/202608-summer intern1.jpeg" alt="Group activity 1">
+      <img src="{{ site.baseurl }}/images/4_activities/202608-summer intern1.png" alt="Group activity 1">
       <div class="activity-caption">Group activity</div>
     </div>
 
     <div class="activity-slide">
-      <img src="{{ site.baseurl }}/images/4_activities/202608-summer intern2.jpeg" alt="Group activity 2">
+      <img src="{{ site.baseurl }}/images/4_activities/202608-summer intern2.png" alt="Group activity 2">
       <div class="activity-caption">Group activity</div>
     </div>
 
