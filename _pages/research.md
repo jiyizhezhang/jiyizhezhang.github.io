@@ -96,7 +96,7 @@ We are interested in designing AI agentic systems to help us automating these de
 <div style="flex: 1; min-width: 250px;">
 <h4>Novel separation processes</h4>
 Let’s imagine some bold ideas! 
-New separations technologies are on the horizon, this usually requires novel design of advanced materials (e.g. ligands, green solvents), use of new driving forces (e.g. electric, microwave, light), as well as designing new separation devices. 
+New separations technologies are on the horizon, this usually requires novel design of advanced materials (e.g. ligands, green solvents), use of new driving forces (e.g. electric, microwave, bio), as well as designing new separation devices. 
 With AI-guided algorithms (such as Bayesian optimisation), we are able to navigate our search in a large design space to identify green solvents, or to find the best experimental conditions to meet multiple objectives in a short time.
 </div>
 
