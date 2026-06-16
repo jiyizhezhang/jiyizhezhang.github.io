@@ -68,85 +68,168 @@ If you are looking for a MEng/MSc project, please contact me via email or stop b
 
 #### Group activities
 
-<div class="gallery-grid">
 
-  <figure class="gallery-item">
-    <a href="/images/4_activities/202608-summer intern.jpeg">
-      <img src="/images/4_activities/202608-summer intern.jpeg" alt="Group activity 1">
-    </a>
-    <figcaption>Group lunch</figcaption>
-  </figure>
 
-[//]: # (  <figure class="gallery-item">)
+<div class="activity-slider" id="group-activity-slider">
 
-[//]: # (    <a href="/images/group/activity-2.jpg">)
+  <div class="activity-slides">
 
-[//]: # (      <img src="/images/group/activity-2.jpg" alt="Group activity 2">)
+    <div class="activity-slide active">
+      <img src="{{ site.baseurl }}/images/4_activities/202608-summer intern1.jpeg" alt="Group activity 1">
+      <div class="activity-caption">Group activity</div>
+    </div>
 
-[//]: # (    </a>)
+    <div class="activity-slide">
+      <img src="{{ site.baseurl }}/images/4_activities/202608-summer intern2.jpeg" alt="Group activity 2">
+      <div class="activity-caption">Group activity</div>
+    </div>
 
-[//]: # (    <figcaption>Conference trip</figcaption>)
+  </div>
 
-[//]: # (  </figure>)
+  <button class="activity-prev" aria-label="Previous image">&#10094;</button>
+  <button class="activity-next" aria-label="Next image">&#10095;</button>
 
-[//]: # ()
-[//]: # (  <figure class="gallery-item">)
-
-[//]: # (    <a href="/images/group/activity-3.jpg">)
-
-[//]: # (      <img src="/images/group/activity-3.jpg" alt="Group activity 3">)
-
-[//]: # (    </a>)
-
-[//]: # (    <figcaption>Lab activity</figcaption>)
-
-[//]: # (  </figure>)
-
-[//]: # ()
-[//]: # (  <figure class="gallery-item">)
-
-[//]: # (    <a href="/images/group/activity-4.jpg">)
-
-[//]: # (      <img src="/images/group/activity-4.jpg" alt="Group activity 4">)
-
-[//]: # (    </a>)
-
-[//]: # (    <figcaption>Team event</figcaption>)
-
-[//]: # (  </figure>)
+  <div class="activity-dots">
+    <button class="activity-dot active" aria-label="Show image 1"></button>
+    <button class="activity-dot" aria-label="Show image 2"></button>
+  </div>
 
 </div>
 
 <style>
-.gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 18px;
-  margin-top: 20px;
-}
-
-.gallery-item {
-  margin: 0;
-  text-align: center;
-}
-
-.gallery-item img {
+.activity-slider {
+  position: relative;
   width: 100%;
-  height: 180px;
+  max-width: 900px;
+  margin: 25px auto 10px auto;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.activity-slides {
+  position: relative;
+  width: 100%;
+}
+
+.activity-slide {
+  display: none;
+  position: relative;
+}
+
+.activity-slide.active {
+  display: block;
+}
+
+.activity-slide img {
+  width: 100%;
+  height: 430px;
   object-fit: cover;
-  border-radius: 8px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: block;
+  border-radius: 10px;
 }
 
-.gallery-item img:hover {
-  transform: scale(1.03);
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18);
+.activity-caption {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 12px 18px;
+  background: rgba(0, 0, 0, 0.45);
+  color: white;
+  font-size: 0.95em;
+  box-sizing: border-box;
 }
 
-.gallery-item figcaption {
-  margin-top: 8px;
-  font-size: 0.9em;
-  color: #555;
+.activity-prev,
+.activity-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  background: rgba(0, 0, 0, 0.35);
+  color: white;
+  font-size: 26px;
+  padding: 10px 14px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.activity-prev {
+  left: 12px;
+}
+
+.activity-next {
+  right: 12px;
+}
+
+.activity-prev:hover,
+.activity-next:hover {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.activity-dots {
+  text-align: center;
+  margin-top: 12px;
+}
+
+.activity-dot {
+  width: 11px;
+  height: 11px;
+  margin: 0 4px;
+  border: none;
+  border-radius: 50%;
+  background: #bbb;
+  cursor: pointer;
+}
+
+.activity-dot.active {
+  background: #555;
+}
+
+@media screen and (max-width: 700px) {
+  .activity-slide img {
+    height: 260px;
+  }
+
+  .activity-caption {
+    font-size: 0.85em;
+  }
 }
 </style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const slider = document.getElementById("group-activity-slider");
+  const slides = slider.querySelectorAll(".activity-slide");
+  const dots = slider.querySelectorAll(".activity-dot");
+  const prev = slider.querySelector(".activity-prev");
+  const next = slider.querySelector(".activity-next");
+
+  let currentSlide = 0;
+
+  function showSlide(index) {
+    slides[currentSlide].classList.remove("active");
+    dots[currentSlide].classList.remove("active");
+
+    currentSlide = (index + slides.length) % slides.length;
+
+    slides[currentSlide].classList.add("active");
+    dots[currentSlide].classList.add("active");
+  }
+
+  prev.addEventListener("click", function () {
+    showSlide(currentSlide - 1);
+  });
+
+  next.addEventListener("click", function () {
+    showSlide(currentSlide + 1);
+  });
+
+  dots.forEach(function (dot, index) {
+    dot.addEventListener("click", function () {
+      showSlide(index);
+    });
+  });
+});
+</script>
 
