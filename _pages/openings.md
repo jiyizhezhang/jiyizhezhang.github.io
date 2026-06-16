@@ -66,22 +66,13 @@ If you are looking for a MEng/MSc project, please contact me via email or stop b
 
 #### Group activities
 
-<div class="activity-slider" id="group-activity-slider">
+<div class="activity-slider" id="group-activity-slider" markdown="0">
 <div class="activity-slides">
-<div class="activity-slide active">
-  <img src="{{ site.baseurl }}/images/4_activities/202608-summer_intern1.png" alt="Group activity 1">
-<div class="activity-caption">Group activity</div>
-
+<div class="activity-slide active"><img src="/images/4_activities/202608-summer_intern1.png" alt="Group activity 1"><div class="activity-caption">Group activity</div></div>
+<div class="activity-slide"><img src="/images/4_activities/202608-summer_intern2.png" alt="Group activity 2"><div class="activity-caption">Group activity</div></div>
 </div>
-<div class="activity-slide">
-  <img src="{{ site.baseurl }}/images/4_activities/202608-summer_intern2.png" alt="Group activity 2">
-<div class="activity-caption">Group activity</div>
-</div>
-</div>
-
 <button class="activity-prev" aria-label="Previous image">&#10094;</button>
 <button class="activity-next" aria-label="Next image">&#10095;</button>
-
 <div class="activity-dots">
 <button class="activity-dot active" aria-label="Show image 1"></button>
 <button class="activity-dot" aria-label="Show image 2"></button>
