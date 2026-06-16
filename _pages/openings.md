@@ -60,51 +60,41 @@ Here are some fellowship opportunities for Postdoc applicants that are highly re
 #### Master/Undergraduate projects
 If you are looking for a MEng/MSc project, please contact me via email or stop by my office (MECD Floor 4 - Office 27) if you are in UoM.
 
+
+
 <br>
-
-
 
 #### Group activities
 
 <div class="activity-slider" id="group-activity-slider">
+<div class="activity-slides">
+<div class="activity-slide active">
+<img src="{{ site.baseurl }}/images/4_activities/202608-summer intern1.png" alt="Group activity 1">
+<div class="activity-caption">Group activity</div>
+</div>
+<div class="activity-slide">
+<img src="{{ site.baseurl }}/images/4_activities/202608-summer intern2.png" alt="Group activity 2">
+<div class="activity-caption">Group activity</div>
+</div>
+</div>
 
-  <div class="activity-slides">
+<button class="activity-prev" aria-label="Previous image">&#10094;</button>
+<button class="activity-next" aria-label="Next image">&#10095;</button>
 
-    <div class="activity-slide active">
-      <img src="{{ site.baseurl }}/images/4_activities/202608-summer intern1.png" alt="Group activity 1">
-      <div class="activity-caption">Group activity</div>
-    </div>
-
-    <div class="activity-slide">
-      <img src="{{ site.baseurl }}/images/4_activities/202608-summer intern2.png" alt="Group activity 2">
-      <div class="activity-caption">Group activity</div>
-    </div>
-
-  </div>
-
-  <button class="activity-prev" aria-label="Previous image">&#10094;</button>
-  <button class="activity-next" aria-label="Next image">&#10095;</button>
-
-  <div class="activity-dots">
-    <button class="activity-dot active" aria-label="Show image 1"></button>
-    <button class="activity-dot" aria-label="Show image 2"></button>
-  </div>
-
+<div class="activity-dots">
+<button class="activity-dot active" aria-label="Show image 1"></button>
+<button class="activity-dot" aria-label="Show image 2"></button>
+</div>
 </div>
 
 <style>
 .activity-slider {
   position: relative;
   width: 100%;
-  max-width: 900px;
+  max-width: 850px;
   margin: 25px auto 10px auto;
   overflow: hidden;
   border-radius: 10px;
-}
-
-.activity-slides {
-  position: relative;
-  width: 100%;
 }
 
 .activity-slide {
@@ -186,10 +176,6 @@ If you are looking for a MEng/MSc project, please contact me via email or stop b
   .activity-slide img {
     height: 260px;
   }
-
-  .activity-caption {
-    font-size: 0.85em;
-  }
 }
 </style>
 
@@ -228,4 +214,3 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 </script>
-
