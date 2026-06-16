@@ -61,3 +61,92 @@ Here are some fellowship opportunities for Postdoc applicants that are highly re
 If you are looking for a MEng/MSc project, please contact me via email or stop by my office (MECD Floor 4 - Office 27) if you are in UoM.
 
 <br><br>
+
+
+
+<br>
+
+#### Group activities
+
+<div class="gallery-grid">
+
+  <figure class="gallery-item">
+    <a href="/images/4_activities/202608-summer intern.jpeg">
+      <img src="/images/4_activities/202608-summer intern.jpeg" alt="Group activity 1">
+    </a>
+    <figcaption>Group lunch</figcaption>
+  </figure>
+
+[//]: # (  <figure class="gallery-item">)
+
+[//]: # (    <a href="/images/group/activity-2.jpg">)
+
+[//]: # (      <img src="/images/group/activity-2.jpg" alt="Group activity 2">)
+
+[//]: # (    </a>)
+
+[//]: # (    <figcaption>Conference trip</figcaption>)
+
+[//]: # (  </figure>)
+
+[//]: # ()
+[//]: # (  <figure class="gallery-item">)
+
+[//]: # (    <a href="/images/group/activity-3.jpg">)
+
+[//]: # (      <img src="/images/group/activity-3.jpg" alt="Group activity 3">)
+
+[//]: # (    </a>)
+
+[//]: # (    <figcaption>Lab activity</figcaption>)
+
+[//]: # (  </figure>)
+
+[//]: # ()
+[//]: # (  <figure class="gallery-item">)
+
+[//]: # (    <a href="/images/group/activity-4.jpg">)
+
+[//]: # (      <img src="/images/group/activity-4.jpg" alt="Group activity 4">)
+
+[//]: # (    </a>)
+
+[//]: # (    <figcaption>Team event</figcaption>)
+
+[//]: # (  </figure>)
+
+</div>
+
+<style>
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 18px;
+  margin-top: 20px;
+}
+
+.gallery-item {
+  margin: 0;
+  text-align: center;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.gallery-item img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18);
+}
+
+.gallery-item figcaption {
+  margin-top: 8px;
+  font-size: 0.9em;
+  color: #555;
+}
+</style>
+

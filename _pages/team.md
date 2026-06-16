@@ -54,7 +54,17 @@ This could be you!
 
 **Aisel Eldwiny**
 
-MEng @ University of Manchester
+Starting 10/2026, MEng @ University of Manchester
+
+**Sisi Liu**
+
+Starting 10/2026, MEng @ Imperial College London
+
+**Jon Dilworth**
+
+Co-supervised with Dr. Jiaoyan Chen, Computer Science
+
+Starting 10/2026, MEng @ University of Manchester
 
 
 <br>
