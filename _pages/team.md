@@ -15,7 +15,7 @@ We always welcome motivated talents from all over the world to join our team!
 #### Principal Investigator
 
 <div class="clearfix" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/images/3_others/team_pic/Jiyizhe3.jpg" alt="Dr Jiyizhe Zhang" style="float: left; width: 25%; max-width: 110px; height: auto; margin-right: 35px; border-radius: 0;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/3_others/team_pic/Jiyizhe3.jpg" alt="Dr Jiyizhe Zhang" style="float: left; width: 30%; max-width: 110px; height: auto; margin-right: 35px; border-radius: 0;" />
 <p style="margin: 0; overflow: hidden;">
 <strong>Dr Jiyizhe Zhang</strong><br>
 <i>Lecturer (Assistant Professor)</i><br>
