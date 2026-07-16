@@ -30,6 +30,4 @@ Please request the access and log in through here [link](https://app.nuclino.com
 
 #### Lab equipment
 
-Our lab is at 2.005 in the [James Chadwick Building](https://www.ce.manchester.ac.uk/research/facilities/sustainable-engineering-hub/).
-
-Interested in a lab tour? Get in touch!
+Our lab is at 2.005 in the [James Chadwick Building](https://www.ce.manchester.ac.uk/research/facilities/sustainable-engineering-hub/). Interested in a lab tour? Get in touch!
