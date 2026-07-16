@@ -1,8 +1,70 @@
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
+# Team members data file
+# Location in your repo: _data/team_members.yml
+#
+# Each member needs:
+#   name      - full name
+#   category  - one of: phd / master / former  (controls which section they appear in)
+#   info      - short role/date line shown in italics
+# Optional:
+#   photo     - filename inside /images/teampic/  (omit if no photo yet)
+#   education - a list of bullet points (degrees, projects, etc.)
+
+# ---------------- PhD Students ----------------
+
+- name: Aisel Eldwiny
+  category: PhD student
+  photo: Aisel_Eldwiny.jpg
+  info: PhD Student, starting 10/2026
+  education:
+    - MEng @ University of Manchester
+
+- name: Sisi Liu
+  category: phd
+  photo: sisi_liu.jpg
+  info: PhD Student, starting 10/2026
+  education:
+    - MEng @ Imperial College London
+
+- name: Jon Dilworth
+  category: phd
+  photo: jon_dilworth.jpg
+  info: PhD Student, starting 10/2026
+  education:
+    - MEng @ University of Manchester
+    - Co-supervised with Dr. Jiaoyan Chen, Computer Science
+
+# ---------- Master and Undergraduate Students ----------
+
+- name: Selim El-Sharkawi
+  category: master
+  photo: selim_elsharkawi.jpg
+  info: Summer intern, 2026
+  education:
+    - "Project: Large language model assisted extraction system design"
+
+- name: Yu Lay Naung
+  category: master
+  photo: yu_lay_naung.jpg
+  info: Summer intern, 2026
+  education:
+    - "Project: An autonomous experimental platform for liquid-liquid extraction"
+
+# ---------------- Former supervised students ----------------
+
+- name: Miguel Chen
+  category: former
+  info: MEng dissertation, 2025-2026
+  education:
+    - "Project: Automated process design for bio-downstream separation using multi agent systems"
+
+- name: Hendrik Scheulen
+  category: former
+  info: 2025.4-2025.11 @ University of Cambridge
+
+- name: Jan Laub-Fridric
+  category: former
+  info: 2024.4-2024.11 @ University of Cambridge, now PhD student at ETH Zurich
+
+- name: Mathis Heyer
+  category: former
+  info: 2023.4-2023.11 @ University of Cambridge, now PhD student at Stanford University

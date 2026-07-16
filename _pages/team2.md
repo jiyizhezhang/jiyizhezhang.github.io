@@ -53,93 +53,128 @@ Since 01/2025, she became Senior Research Associate at Cambridge (Research Assis
 
 #### PhD Students
 
-{% assign phd_students = site.data.team_members | where: "category", "phd" %}
-{% for member in phd_students %}
-{% assign even_odd = forloop.index0 | modulo: 2 %}
+**Aisel Eldwiny**
+
+Starting 10/2026, MEng @ University of Manchester
+
+**Sisi Liu**
+
+Starting 10/2026, MEng @ Imperial College London
+
+**Jon Dilworth**
+
+Co-supervised with Dr. Jiaoyan Chen, Computer Science
+
+Starting 10/2026, MEng @ University of Manchester
+
+
+#### PhD Students
+{% assign number_printed = 0 %}
+{% for member in site.data.team_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
-  {% if member.photo %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right: 15px;" alt="{{ member.name }}" />
-  {% endif %}
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i>
-  {% if member.education %}
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
-    {% for edu in member.education %}
-    <li>{{ edu | markdownify }}</li>
-    {% endfor %}
-  </ul>
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
   {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 | markdownify}} </li>
+  <li> {{ member.education2 | markdownify}} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 | markdownify}} </li>
+  <li> {{ member.education2 | markdownify}} </li>
+  <li> {{ member.education3 | markdownify}} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 | markdownify}} </li>
+  <li> {{ member.education2 | markdownify}} </li>
+  <li> {{ member.education3 | markdownify}} </li>
+  <li> {{ member.education4 | markdownify}} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 | markdownify}} </li>
+  <li> {{ member.education2 | markdownify}} </li>
+  <li> {{ member.education3 | markdownify}} </li>
+  <li> {{ member.education4 | markdownify}} </li>
+  <li> {{ member.education5 | markdownify}} </li>
+  {% endif %}
+
+  </ul>
 </div>
 
-{% if even_odd == 1 or forloop.last %}
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
 </div>
 {% endif %}
+
 {% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
 
 <br>
 
 #### Master and Undergraduate Students
 
-{% assign master_students = site.data.team_members | where: "category", "master" %}
-{% for member in master_students %}
-{% assign even_odd = forloop.index0 | modulo: 2 %}
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+**Selim El-Sharkawi**
 
-<div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
-  {% if member.photo %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right: 15px;" alt="{{ member.name }}" />
-  {% endif %}
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i>
-  {% if member.education %}
-  <ul style="overflow: hidden">
-    {% for edu in member.education %}
-    <li>{{ edu | markdownify }}</li>
-    {% endfor %}
-  </ul>
-  {% endif %}
-</div>
+Summer intern, 2026
 
-{% if even_odd == 1 or forloop.last %}
-</div>
-{% endif %}
-{% endfor %}
+Project: Large language model assisted extraction system design
+
+**Yu Lay Naung**
+
+Summer intern, 2026
+
+Project: An autonomous experimental platform for liquid-liquid extraction 
 
 <br>
 
 #### Former supervised students
 
-{% assign former_students = site.data.team_members | where: "category", "former" %}
-{% for member in former_students %}
-{% assign even_odd = forloop.index0 | modulo: 2 %}
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+**Miguel Chen**
 
-<div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
-  {% if member.photo %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right: 15px;" alt="{{ member.name }}" />
-  {% endif %}
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i>
-  {% if member.education %}
-  <ul style="overflow: hidden">
-    {% for edu in member.education %}
-    <li>{{ edu | markdownify }}</li>
-    {% endfor %}
-  </ul>
-  {% endif %}
-</div>
+MEng dissertation, 2025-2026 
 
-{% if even_odd == 1 or forloop.last %}
-</div>
-{% endif %}
-{% endfor %}
+Project: Automated process design for bio-downstream separation using multi agent systems
+
+**Hendrik Scheulen**
+
+2025.4-2025.11 @ University of Cambridge
+
+**Jan Laub-Fridric**
+
+2024.4-2024.11 @ University of Cambridge, now PhD student at ETH Zurich
+
+**Mathis Heyer**
+
+2023.4-2023.11 @ University of Cambridge, now PhD student at Stanford University
+
 
 <br><br>
+
+
+
+
+
+
