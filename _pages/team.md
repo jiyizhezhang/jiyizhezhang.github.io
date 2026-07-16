@@ -61,8 +61,10 @@ Since 01/2025, she became Senior Research Associate at Cambridge (Research Assis
 {% endif %}
 
 <div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
-  {% if member.photo %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right: 15px;" alt="{{ member.name }}" />
+  {% assign photo_path = "/images/teampic/" | append: member.photo %}
+  {% assign photo_exists = site.static_files | where: "path", photo_path | size %}
+  {% if member.photo and photo_exists > 0 %}
+  <img src="{{ site.url }}{{ site.baseurl }}{{ photo_path }}" class="img-responsive" style="float: left; margin-right: 15px; width: 25%; max-width: 120px;" alt="{{ member.name }}" />
   {% endif %}
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
@@ -92,8 +94,10 @@ Since 01/2025, she became Senior Research Associate at Cambridge (Research Assis
 {% endif %}
 
 <div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
-  {% if member.photo %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right: 15px;" alt="{{ member.name }}" />
+  {% assign photo_path = "/images/teampic/" | append: member.photo %}
+  {% assign photo_exists = site.static_files | where: "path", photo_path | size %}
+  {% if member.photo and photo_exists > 0 %}
+  <img src="{{ site.url }}{{ site.baseurl }}{{ photo_path }}" class="img-responsive" style="float: left; margin-right: 15px; width: 25%; max-width: 120px;" alt="{{ member.name }}" />
   {% endif %}
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
@@ -123,8 +127,10 @@ Since 01/2025, she became Senior Research Associate at Cambridge (Research Assis
 {% endif %}
 
 <div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
-  {% if member.photo %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right: 15px;" alt="{{ member.name }}" />
+  {% assign photo_path = "/images/teampic/" | append: member.photo %}
+  {% assign photo_exists = site.static_files | where: "path", photo_path | size %}
+  {% if member.photo and photo_exists > 0 %}
+  <img src="{{ site.url }}{{ site.baseurl }}{{ photo_path }}" class="img-responsive" style="float: left; margin-right: 15px; width: 25%; max-width: 120px;" alt="{{ member.name }}" />
   {% endif %}
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
