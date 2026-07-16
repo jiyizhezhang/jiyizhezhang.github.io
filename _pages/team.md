@@ -60,18 +60,18 @@ Since 01/2025, she became Senior Research Associate at Cambridge (Research Assis
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
+<div class="col-sm-6 clearfix" style="margin-bottom: 25px;">
   {% assign photo_path = "/images/teampic/" | append: member.photo %}
   {% assign photo_exists = site.static_files | where: "path", photo_path | size %}
   {% if member.photo and photo_exists > 0 %}
-  <img src="{{ site.url }}{{ site.baseurl }}{{ photo_path }}" class="img-responsive" style="float: left; margin-right: 15px; width: 25%; max-width: 120px;" alt="{{ member.name }}" />
+  <img src="{{ site.url }}{{ site.baseurl }}{{ photo_path }}" alt="{{ member.name }}" style="float: left; width: 25%; max-width: 110px; height: auto; margin-right: 15px;" />
   {% endif %}
-  <h4>{{ member.name }}</h4>
+  <h4 style="margin-top: 0;">{{ member.name }}</h4>
   <i>{{ member.info }}</i>
   {% if member.education %}
-  <ul style="overflow: hidden">
+  <ul style="overflow: hidden; margin-top: 8px;">
     {% for edu in member.education %}
-    <li>{{ edu | markdownify }}</li>
+    <li>{{ edu }}</li>
     {% endfor %}
   </ul>
   {% endif %}
@@ -93,18 +93,13 @@ Since 01/2025, she became Senior Research Associate at Cambridge (Research Assis
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
-  {% assign photo_path = "/images/teampic/" | append: member.photo %}
-  {% assign photo_exists = site.static_files | where: "path", photo_path | size %}
-  {% if member.photo and photo_exists > 0 %}
-  <img src="{{ site.url }}{{ site.baseurl }}{{ photo_path }}" class="img-responsive" style="float: left; margin-right: 15px; width: 25%; max-width: 120px;" alt="{{ member.name }}" />
-  {% endif %}
-  <h4>{{ member.name }}</h4>
+<div class="col-sm-6 clearfix" style="margin-bottom: 25px;">
+  <h4 style="margin-top: 0;">{{ member.name }}</h4>
   <i>{{ member.info }}</i>
   {% if member.education %}
-  <ul style="overflow: hidden">
+  <ul style="overflow: hidden; margin-top: 8px;">
     {% for edu in member.education %}
-    <li>{{ edu | markdownify }}</li>
+    <li>{{ edu }}</li>
     {% endfor %}
   </ul>
   {% endif %}
@@ -119,33 +114,23 @@ Since 01/2025, she became Senior Research Associate at Cambridge (Research Assis
 
 #### Former supervised students
 
-{% assign former_students = site.data.team_members | where: "category", "former" %}
-{% for member in former_students %}
-{% assign even_odd = forloop.index0 | modulo: 2 %}
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+**Miguel Chen**
 
-<div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
-  {% assign photo_path = "/images/teampic/" | append: member.photo %}
-  {% assign photo_exists = site.static_files | where: "path", photo_path | size %}
-  {% if member.photo and photo_exists > 0 %}
-  <img src="{{ site.url }}{{ site.baseurl }}{{ photo_path }}" class="img-responsive" style="float: left; margin-right: 15px; width: 25%; max-width: 120px;" alt="{{ member.name }}" />
-  {% endif %}
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i>
-  {% if member.education %}
-  <ul style="overflow: hidden">
-    {% for edu in member.education %}
-    <li>{{ edu | markdownify }}</li>
-    {% endfor %}
-  </ul>
-  {% endif %}
-</div>
+MEng dissertation, 2025-2026 
 
-{% if even_odd == 1 or forloop.last %}
-</div>
-{% endif %}
-{% endfor %}
+Project: Automated process design for bio-downstream separation using multi agent systems
+
+**Hendrik Scheulen**
+
+2025.4-2025.11 @ University of Cambridge
+
+**Jan Laub-Fridric**
+
+2024.4-2024.11 @ University of Cambridge, now PhD student at ETH Zurich
+
+**Mathis Heyer**
+
+2023.4-2023.11 @ University of Cambridge, now PhD student at Stanford University
+
 
 <br><br>

@@ -13,7 +13,7 @@ permalink: /resources/
 
 You could find our group Github repository here:
 
-https://github.com/Digital-Separation-Group-UoM
+[Group github](https://github.com/Digital-Separation-Group-UoM)
 
 Any queries, please contact: jiyizhe.zhang@manchester.ac.uk
 
@@ -27,3 +27,9 @@ This could help you to start quickly.
 Please request the access and log in through here [link](https://app.nuclino.com/Zhang-Group/Research)
 
 <br>
+
+#### Lab equipment
+
+Our lab is at 2.005 in the [James Chadwick Building](https://www.ce.manchester.ac.uk/research/facilities/sustainable-engineering-hub/).
+
+Interested in a lab tour? Get in touch!

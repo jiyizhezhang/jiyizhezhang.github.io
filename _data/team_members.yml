@@ -1,18 +1,19 @@
-# Team members data file
-# Location in your repo: _data/team_members.yml
+# Team members data file  ->  save as: _data/team_members.yml
 #
-# Each member needs:
+# Only PhD and Master/Undergrad students go here (PI and former students
+# are written directly in team.md).
+#
+# Fields:
 #   name      - full name
-#   category  - one of: phd / master / former  (controls which section they appear in)
-#   info      - short role/date line shown in italics
-# Optional:
-#   photo     - filename inside /images/teampic/  (omit if no photo yet)
-#   education - a list of bullet points (degrees, projects, etc.)
+#   category  - "phd" or "master" (controls which section they appear in)
+#   info      - italic line under the name
+#   photo     - filename inside /images/teampic/  (must match EXACTLY, case-sensitive)
+#   education - list of bullet points
 
 # ---------------- PhD Students ----------------
 
 - name: Aisel Eldwiny
-  category: PhD student
+  category: phd
   photo: Aisel_Eldwiny.jpg
   info: PhD Student, starting 10/2026
   education:
@@ -37,34 +38,12 @@
 
 - name: Selim El-Sharkawi
   category: master
-  photo: selim_elsharkawi.jpg
   info: Summer intern, 2026
   education:
     - "Project: Large language model assisted extraction system design"
 
 - name: Yu Lay Naung
   category: master
-  photo: yu_lay_naung.jpg
   info: Summer intern, 2026
   education:
     - "Project: An autonomous experimental platform for liquid-liquid extraction"
-
-# ---------------- Former supervised students ----------------
-
-- name: Miguel Chen
-  category: former
-  info: MEng dissertation, 2025-2026
-  education:
-    - "Project: Automated process design for bio-downstream separation using multi agent systems"
-
-- name: Hendrik Scheulen
-  category: former
-  info: 2025.4-2025.11 @ University of Cambridge
-
-- name: Jan Laub-Fridric
-  category: former
-  info: 2024.4-2024.11 @ University of Cambridge, now PhD student at ETH Zurich
-
-- name: Mathis Heyer
-  category: former
-  info: 2023.4-2023.11 @ University of Cambridge, now PhD student at Stanford University
