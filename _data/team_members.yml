@@ -9,6 +9,9 @@
 #   info      - italic line under the name
 #   photo     - filename inside /images/teampic/  (must match EXACTLY, case-sensitive)
 #   education - list of bullet points
+# Optional (icons appear automatically if present):
+#   email     - email address (shows an envelope icon)
+#   linkedin  - full LinkedIn profile URL (shows a LinkedIn icon)
 
 # ---------------- PhD Students ----------------
 
@@ -16,6 +19,8 @@
   category: phd
   photo: aisel_eldwiny.jpg
   info: PhD Student, starting 10/2026
+#  email: firstname.lastname@manchester.ac.uk
+#  linkedin: https://www.linkedin.com/in/your-profile-here/
   education:
     - MEng @ University of Manchester
 
@@ -23,6 +28,8 @@
   category: phd
   photo: sisi_liu.jpg
   info: PhD Student, starting 10/2026
+  # email: firstname.lastname@manchester.ac.uk
+  # linkedin: https://www.linkedin.com/in/your-profile-here/
   education:
     - MEng @ Imperial College London
 
@@ -30,6 +37,8 @@
   category: phd
   photo: jon_dilworth.jpg
   info: PhD Student, starting 10/2026
+  # email: firstname.lastname@manchester.ac.uk
+  # linkedin: https://www.linkedin.com/in/your-profile-here/
   education:
     - MEng @ University of Manchester
     - Co-supervised with Dr. Jiaoyan Chen, Computer Science
@@ -38,12 +47,18 @@
 
 - name: Selim El-Sharkawi
   category: master
+  photo: selim_elsharkawi.jpg
   info: Summer intern, 2026
+  # email: firstname.lastname@manchester.ac.uk
+  # linkedin: https://www.linkedin.com/in/your-profile-here/
   education:
     - "Project: Large language model assisted extraction system design"
 
 - name: Yu Lay Naung
   category: master
+  photo: yu_lay_naung.jpg
   info: Summer intern, 2026
+  # email: firstname.lastname@manchester.ac.uk
+  # linkedin: https://www.linkedin.com/in/your-profile-here/
   education:
     - "Project: An autonomous experimental platform for liquid-liquid extraction"
