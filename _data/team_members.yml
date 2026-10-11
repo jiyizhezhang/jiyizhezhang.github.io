@@ -45,20 +45,20 @@
 
 # ---------- Master and Undergraduate Students ----------
 
-- name: Selim El-Sharkawi
+- name: Elias Rice
   category: master
   photo: selim_elsharkawi.jpg
-  info: Summer intern, 2026
+  info: MEng student, 2026-2027
   # email: firstname.lastname@manchester.ac.uk
   # linkedin: https://www.linkedin.com/in/your-profile-here/
   education:
-    - "Project: Large language model assisted extraction system design"
+    - "Project: autonomous experimental platform, liquid-liquid extraction"
 
-- name: Yu Lay Naung
+- name: Muhammad Surali
   category: master
   photo: yu_lay_naung.jpg
-  info: Summer intern, 2026
+  info: MEng student, 2026-2027
   # email: firstname.lastname@manchester.ac.uk
   # linkedin: https://www.linkedin.com/in/your-profile-here/
   education:
-    - "Project: An autonomous experimental platform for liquid-liquid extraction"
+    - "Project: KG4Sep, automated process design"

@@ -98,7 +98,19 @@ Since 01/2025, she became Senior Research Associate at Cambridge (Research Assis
 
 <br>
 
-#### Former supervised students
+#### Former students
+
+**Yu Lay Naung** 
+
+SoE Summer intern, 2026 Summer
+
+Project: An autonomous experimental platform for liquid-liquid extraction
+
+**Selim El-Sharkawi**
+
+SoE Summer intern, 2026 Summer
+
+Project: Large language model assisted extraction system design
 
 **Miguel Chen**
 
