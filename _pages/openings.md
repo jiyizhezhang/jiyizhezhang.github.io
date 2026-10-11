@@ -35,7 +35,7 @@ We don't have open positions at the moment, but stay tuned for future updates! I
 If you are interested in working with us as a PhD student or a postdoc, please send me an email at **jiyizhe.zhang@manchester.ac.uk**. 
 Please attach your CV and a brief statement of your motivation, please use the email title "PhD/Postdoc Inquiry-Your Name".
 
-Here are some scholarship opportunities for PhD applicants (for 2026 Fall entry):
+Here are some scholarship opportunities for PhD applicants:
 
 - [President's Doctoral Scholarship](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/presidents-doctoral-scholarship/)
 
