@@ -31,6 +31,8 @@ Full list of publications can be found on [Google Scholar](https://scholar.googl
 
 [13] J Zhang, S Zhang, A Lapkin. [AI4X Roadmap: Artificial Intelligence for the advancement of scientific pursuit and its future directions](https://arxiv.org/pdf/2511.20976). arXiv, 2025, arXiv:2511.20976
 
+<br>
+
 #### Before joining UoM
 
 [12] Y Shen<sup>1</sup>, J Zhang<sup>1</sup>, X Liang, K Wang<sup>\*</sup>. [From Optimization to Mechanism: Bayesian Optimization-Guided Exploration of p-Xylene Electro-oxidation](https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.5c06927). *ACS Sustainable Chemistry & Engineering*, 2025, 13 (39), 16601–16610.

@@ -8,14 +8,25 @@ permalink: /vacancies/
 
 ### Open positions
 
-We are always looking for passionate individuals to join our team! Our job openings will be listed here, also are advertised on the [website](https://www.ce.manchester.ac.uk/study/postgraduate-research/projects/).
-We also welcome visiting academic and students for collaborative research.
+We are recruiting PhD students for 2027 entry! Please reach out and have a chat.
 
 <br>
 
 #### Current open positions
 
-We don't have open positions at the moment, but stay tuned for future updates! If you find our research interesting, please do reach out. 
+Here are some open PhD projects:
+
+1. Engineering scalable microbial recovery of critical metals from industrial waters to support the energy transition
+Supervisors: Prof Jon Lloyd, Prof Rahul Raveendran Nair, Dr Jiyizhe Zhang 
+Funding: UoM PhD scholarship
+https://www.findaphd.com/phds/project/school-of-natural-sciences-phd-scholarships-engineering-scalable-microbial-recovery-of-critical-metals-from-industrial-waters-to-support-the-energy-transition/?p198804
+
+2. Accelerating Chemical Process Development via Uncertainty-Aware Modelling and Experimental Design
+Supervisors: Dr Tim Waite, Prof Sami Kaski, Dr Jiyizhe Zhang
+Funding: AI in Decision Making for Complex System CDT
+https://www.findaphd.com/phds/project/accelerating-chemical-process-development-via-uncertainty-aware-modelling-and-experimental-design/?p200592
+
+3. TBA
 
 <br>
 
