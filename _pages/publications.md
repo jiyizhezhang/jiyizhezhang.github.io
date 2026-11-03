@@ -17,6 +17,8 @@ Full list of publications can be found on [Google Scholar](https://scholar.googl
 
 <br>
 
+[17] J Zhang, P Yaseneva, A Lapkin<sup>\*</sup>. [Developing Sustainable Chemistry with AI](https://doi.org/10.1021/acs.accounts.6c00552) *Accounts of Chemical Research*, 2026, 59 (20), 3426–3436.
+
 [16] S Zhang<sup>1</sup>, J Zhang<sup>1</sup>, A Lapkin<sup>\*</sup>. [A knowledge graph framework for digital twins of chemical processes Nature Chemical Engineering](https://www.nature.com/articles/s44286-026-00392-1) *Nature Chemical Engineering*, 2026, 3, 286–297.
 
 [15] M Qu, Z Ding, D Zhang, S Foroughi, H Chen, Z Yu, J Zhang, L Xiao, MJ Blunt, X Fan<sup>\*</sup>, Q Lin<sup>\*</sup>. [A Machine Learning-Driven Pore-Scale Network Model Coupling Reaction Kinetics and Interparticle Transport for Catalytic Process Design](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202513649) *Advanced Science*, 2026, 13 (8), e13649.
