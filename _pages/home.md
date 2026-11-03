@@ -13,9 +13,9 @@ permalink: /
 We are an interdisciplinary research group at [Department of Chemical Engineering](https://www.ce.manchester.ac.uk/) and at the [University of Manchester](https://www.manchester.ac.uk/).
 We aim to tackle chemical separation challenges for our sustainable future with artificial intelligence, automated experimentation and process modeling!
 
-[Learn more about our research]({{ site.url }}{{ site.baseurl }}/research)
-
 We are always looking for passionate Postdocs, PhD students, and Master/Undergraduate students to join our team!
+
+[Learn more about our research]({{ site.url }}{{ site.baseurl }}/research)
 
 <br>
 
