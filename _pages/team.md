@@ -15,7 +15,7 @@ We always welcome motivated talents from all over the world to join our team!
 #### Principal Investigator
 
 <div class="clearfix" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/images/3_others/team_pic/Jiyizhe3.jpg" alt="Dr Jiyizhe Zhang" style="float: left; width: 30%; max-width: 110px; height: auto; margin-right: 35px; border-radius: 0;" />
+<img class="person-photo" src="{{ site.url }}{{ site.baseurl }}/images/3_others/team_pic/Jiyizhe3.jpg" alt="Dr Jiyizhe Zhang" style="float: left; width: 30%; max-width: 110px; height: auto; margin-right: 35px; border-radius: 0;" />
 <p style="margin: 0; overflow: hidden;">
 <strong>Dr Jiyizhe Zhang</strong><br>
 <i>Lecturer (Assistant Professor)</i><br>
@@ -52,7 +52,7 @@ Since 01/2025, she became Senior Research Associate at Cambridge (Research Assis
 {%- assign photo_path = "/images/teampic/" | append: member.photo -%}
 {%- assign photo_exists = site.static_files | where: "path", photo_path | size -%}
 {%- if member.photo and photo_exists > 0 %}
-<img src="{{ site.url }}{{ site.baseurl }}{{ photo_path }}" alt="{{ member.name }}" style="float: left; width: 25%; max-width: 110px; height: auto; margin-right: 15px;" />
+<img class="person-photo" src="{{ site.url }}{{ site.baseurl }}{{ photo_path }}" alt="{{ member.name }}" style="float: left; width: 25%; max-width: 110px; height: auto; margin-right: 15px;" />
 {%- endif %}
 <p style="margin: 0 0 4px 0;"><strong>{{ member.name }}</strong></p>
 <i>{{ member.info }}</i>
@@ -81,7 +81,7 @@ Since 01/2025, she became Senior Research Associate at Cambridge (Research Assis
 {%- assign photo_path = "/images/teampic/" | append: member.photo -%}
 {%- assign photo_exists = site.static_files | where: "path", photo_path | size -%}
 {%- if member.photo and photo_exists > 0 %}
-<img src="{{ site.url }}{{ site.baseurl }}{{ photo_path }}" alt="{{ member.name }}" style="float: left; width: 25%; max-width: 110px; height: auto; margin-right: 15px;" />
+<img class="person-photo" src="{{ site.url }}{{ site.baseurl }}{{ photo_path }}" alt="{{ member.name }}" style="float: left; width: 25%; max-width: 110px; height: auto; margin-right: 15px;" />
 {%- endif %}
 <p style="margin: 0 0 4px 0;"><strong>{{ member.name }}</strong></p>
 <i>{{ member.info }}</i>

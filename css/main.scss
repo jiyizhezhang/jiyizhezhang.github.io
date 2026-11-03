@@ -148,3 +148,12 @@ firstp {
 #newsid [hidden] {
   display: none !important;
 }
+
+#gridid img.person-photo {
+  margin-top: 0;
+}
+
+#newsid .home-news .news-entry p {
+  font-size: inherit;
+  line-height: inherit;
+}

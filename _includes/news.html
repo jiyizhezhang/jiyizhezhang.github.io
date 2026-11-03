@@ -1,12 +1,56 @@
-
-<div class="well">
-<h4>News</h4>
-
-{% for article in site.data.news limit:9 %}
-<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
-{% endfor %}
-
-<h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5>
-
+<div class="well home-news">
+  <h4>News</h4>
+  <div class="news-items" id="home-news-items">
+    {% for article in site.data.news %}
+    <div class="news-entry">
+      <strong>{{ article.date }}</strong>
+      {{ article.headline | markdownify }}
     </div>
+    {% endfor %}
+  </div>
+  <div class="news-controls">
+    <button type="button" aria-controls="home-news-items" aria-expanded="false" hidden>Show more news</button>
+    <a href="{{ '/allnews.html' | relative_url }}">See all news</a>
+  </div>
+</div>
+<script>
+(() => {
+  const panel = document.querySelector('#newsid .home-news');
+  const photo = document.querySelector('#homeid figure img');
+  const list = panel.querySelector('.news-items');
+  const entries = Array.from(list.children);
+  const button = panel.querySelector('button');
+  let expanded = false;
 
+  function fitNews() {
+    const height = photo ? photo.getBoundingClientRect().bottom - panel.getBoundingClientRect().top : 0;
+    const besidePhoto = window.matchMedia('(min-width: 768px)').matches && photo && photo.naturalWidth && height > 0;
+    entries.forEach(entry => { entry.hidden = false; });
+    button.hidden = false;
+    panel.style.setProperty('--news-height', height + 'px');
+    panel.classList.toggle('is-collapsed', Boolean(besidePhoto));
+
+    const bottom = list.getBoundingClientRect().bottom;
+    const firstHidden = besidePhoto
+      ? entries.findIndex(entry => entry.getBoundingClientRect().bottom > bottom)
+      : entries.findIndex((entry, index) => index === 2);
+    if (firstHidden === -1) expanded = false;
+    button.hidden = firstHidden === -1;
+    button.textContent = expanded ? 'Show less news' : 'Show more news';
+    button.setAttribute('aria-expanded', String(expanded));
+    panel.classList.toggle('is-collapsed', Boolean(besidePhoto && !expanded));
+    if (!expanded && firstHidden >= 0) {
+      entries.slice(firstHidden).forEach(entry => { entry.hidden = true; });
+    }
+  }
+
+  button.addEventListener('click', () => {
+    expanded = !expanded;
+    fitNews();
+  });
+  if (photo) photo.addEventListener('load', fitNews);
+  window.addEventListener('resize', fitNews);
+  if (document.fonts) document.fonts.ready.then(fitNews);
+  fitNews();
+})();
+</script>
