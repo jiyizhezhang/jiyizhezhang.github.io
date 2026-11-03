@@ -47,18 +47,18 @@
 
 - name: Elias Rice
   category: master
-  photo: selim_elsharkawi.jpg
+  photo: elias_rice_crop.jpg
   info: MEng student, 2026-2027
   # email: firstname.lastname@manchester.ac.uk
   # linkedin: https://www.linkedin.com/in/your-profile-here/
   education:
-    - "Project: autonomous experimental platform, liquid-liquid extraction"
+    - "Project: autonomous LLE experimental platform for metal recovery"
 
-- name: Muhammad Surali
+- name: Muhammad Daniel Bin Surali
   category: master
-  photo: yu_lay_naung.jpg
+  photo: daniel_surali_crop.jpg
   info: MEng student, 2026-2027
   # email: firstname.lastname@manchester.ac.uk
   # linkedin: https://www.linkedin.com/in/your-profile-here/
   education:
-    - "Project: KG4Sep, automated process design"
+    - "Project: Multiagent system for automated DSP design"
