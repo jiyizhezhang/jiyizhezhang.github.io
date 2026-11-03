@@ -16,20 +16,22 @@ We are recruiting PhD students for 2027 entry! Please reach out and have a chat.
 
 Here are some open PhD projects:
 
-1. [Engineering scalable microbial recovery of critical metals from industrial waters to support the energy transition](https://www.findaphd.com/phds/project/school-of-natural-sciences-phd-scholarships-engineering-scalable-microbial-recovery-of-critical-metals-from-industrial-waters-to-support-the-energy-transition/?p198804)
+[Engineering scalable microbial recovery of critical metals from industrial waters to support the energy transition](https://www.findaphd.com/phds/project/school-of-natural-sciences-phd-scholarships-engineering-scalable-microbial-recovery-of-critical-metals-from-industrial-waters-to-support-the-energy-transition/?p198804)
 
 Supervisors: Prof Jon Lloyd, Prof Rahul Raveendran Nair, Dr Jiyizhe Zhang 
 
 Funding: UoM PhD scholarship
+<br>
 
-2. [Accelerating Chemical Process Development via Uncertainty-Aware Modelling and Experimental Design](https://www.findaphd.com/phds/project/accelerating-chemical-process-development-via-uncertainty-aware-modelling-and-experimental-design/?p200592)
+[Accelerating Chemical Process Development via Uncertainty-Aware Modelling and Experimental Design](https://www.findaphd.com/phds/project/accelerating-chemical-process-development-via-uncertainty-aware-modelling-and-experimental-design/?p200592)
 
 Supervisors: Dr Tim Waite, Prof Sami Kaski, Dr Jiyizhe Zhang
 
 Funding: AI in Decision Making for Complex System CDT
 
+<br>
 
-3. TBA
+TBA
 
 <br>
 
