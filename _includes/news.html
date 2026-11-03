@@ -1,11 +1,94 @@
 
-<div class="well">
-<h4>News</h4>
+<!--<div class="well">-->
+<!--<h4>News</h4>-->
 
-{% for article in site.data.news limit:9 %}
-<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
-{% endfor %}
+<!--{% for article in site.data.news limit:9 %}-->
+<!--<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>-->
+<!--{% endfor %}-->
 
-<h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5>
+<!--<h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5>-->
 
-    </div>
+<!--    </div>-->
+
+
+<div class="well home-news">
+  <h4>News</h4>
+
+  <div class="news-items">
+    {% for article in site.data.news %}
+      <div class="news-entry">
+        <strong>{{ article.date }}</strong>
+        {{ article.headline | markdownify }}
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class="news-controls">
+    <button type="button" hidden aria-expanded="false">
+      Show more news
+    </button>
+    <a href="{{ '/allnews.html' | relative_url }}">See all news</a>
+  </div>
+</div>
+
+<script>
+(() => {
+  const panel = document.querySelector("#newsid .home-news");
+  const image = document.querySelector("#homeid figure img");
+  if (!panel || !image) return;
+
+  const list = panel.querySelector(".news-items");
+  const entries = [...list.querySelectorAll(".news-entry")];
+  const button = panel.querySelector("button");
+  let expanded = false;
+
+  function updateNews() {
+    entries.forEach(entry => entry.hidden = false);
+    button.hidden = false;
+    panel.classList.toggle("is-collapsed", !expanded);
+
+    if (!expanded) {
+      // On desktop, align the panel bottom with the image bottom.
+      const height = window.matchMedia("(min-width: 768px)").matches
+        ? image.getBoundingClientRect().bottom -
+          panel.getBoundingClientRect().top
+        : 360;
+
+      // Leave the panel open if there isn't enough usable space.
+      if (height < 180) {
+        panel.classList.remove("is-collapsed");
+        button.hidden = true;
+        return;
+      }
+
+      panel.style.setProperty("--news-height", `${height}px`);
+
+      // Hide complete entries so no sentence gets cut in half.
+      const bottom = list.getBoundingClientRect().bottom;
+      let hideRemaining = false;
+
+      entries.forEach(entry => {
+        if (hideRemaining ||
+            entry.getBoundingClientRect().bottom > bottom) {
+          entry.hidden = true;
+          hideRemaining = true;
+        }
+      });
+
+      button.hidden = !entries.some(entry => entry.hidden);
+    }
+
+    button.textContent = expanded ? "Show less news" : "Show more news";
+    button.setAttribute("aria-expanded", String(expanded));
+  }
+
+  button.addEventListener("click", () => {
+    expanded = !expanded;
+    updateNews();
+  });
+
+  image.addEventListener("load", updateNews);
+  window.addEventListener("resize", updateNews);
+  updateNews();
+})();
+</script>

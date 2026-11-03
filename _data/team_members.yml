@@ -18,7 +18,7 @@
 - name: Aisel Eldwiny
   category: phd
   photo: aisel_eldwiny.jpg
-  info: PhD Student, starting 10/2026
+  info: PhD Student, 2026 entry
 #  email: firstname.lastname@manchester.ac.uk
 #  linkedin: https://www.linkedin.com/in/your-profile-here/
   education:
@@ -27,7 +27,7 @@
 - name: Sisi Liu
   category: phd
   photo: sisi_liu_crop.jpg
-  info: PhD Student, starting 10/2026
+  info: PhD Student, 2026 entry
   # email: firstname.lastname@manchester.ac.uk
   # linkedin: https://www.linkedin.com/in/your-profile-here/
   education:
@@ -36,12 +36,12 @@
 - name: Jon Dilworth
   category: phd
   photo: jon_dilworth.jpg
-  info: PhD Student, starting 10/2026
+  info: PhD Student, 2026 entry
   # email: firstname.lastname@manchester.ac.uk
   # linkedin: https://www.linkedin.com/in/your-profile-here/
   education:
     - MEng @ University of Manchester
-    - Co-supervised with Dr. Jiaoyan Chen, Computer Science
+    - Co-supervise with Dr. Jiaoyan Chen, Computer Science
 
 # ---------- Master and Undergraduate Students ----------
 

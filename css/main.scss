@@ -93,3 +93,58 @@ firstp {
     margin-right: 30px;
 }
 
+/* Compact news panel on the homepage */
+#newsid .home-news {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 1.45;
+  text-align: left;
+}
+
+#newsid .home-news h4 {
+  flex-shrink: 0;
+  font-size: 18px;
+  margin-top: 0;
+}
+
+#newsid .home-news.is-collapsed {
+  height: var(--news-height);
+}
+
+#newsid .news-items {
+  flex: 1;
+  min-height: 0;
+}
+
+#newsid .is-collapsed .news-items {
+  overflow: hidden;
+}
+
+#newsid .news-entry {
+  margin-bottom: 12px;
+}
+
+#newsid .news-entry p {
+  margin: 4px 0 0;
+}
+
+#newsid .news-controls {
+  flex-shrink: 0;
+  padding-top: 10px;
+}
+
+#newsid .news-controls button {
+  border: 0;
+  background: transparent;
+  color: #337ab7;
+  padding: 0;
+  cursor: pointer;
+  font: inherit;
+  margin-right: 12px;
+}
+
+#newsid [hidden] {
+  display: none !important;
+}
