@@ -21,6 +21,7 @@ Here are some open PhD projects:
 Supervisors: Prof Jon Lloyd, Prof Rahul Raveendran Nair, Dr Jiyizhe Zhang 
 
 Funding: UoM PhD scholarship
+
 <br>
 
 [Accelerating Chemical Process Development via Uncertainty-Aware Modelling and Experimental Design](https://www.findaphd.com/phds/project/accelerating-chemical-process-development-via-uncertainty-aware-modelling-and-experimental-design/?p200592)
