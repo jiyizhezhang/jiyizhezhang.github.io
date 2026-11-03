@@ -17,7 +17,11 @@ Full list of publications can be found on [Google Scholar](https://scholar.googl
 
 <br>
 
-[17] J Zhang, P Yaseneva, A Lapkin<sup>\*</sup>. [Developing Sustainable Chemistry with AI](https://doi.org/10.1021/acs.accounts.6c00552) *Accounts of Chemical Research*, 2026, 59 (20), 3426–3436.
+[19] J Zhang, P Yaseneva, A Lapkin<sup>\*</sup>. [Developing Sustainable Chemistry with AI](https://doi.org/10.1021/acs.accounts.6c00552) *Accounts of Chemical Research*, 2026, 59 (20), 3426–3436.
+
+[18] X Cao, J Zhang, S Soritz, X Chen, A Lapkin<sup>\*</sup>. [Prior-Discrepancy-Aware Bayesian Optimization via Adaptive Uncertainty Inflation](10.1016/j.compchemeng.2026.109942) *Computers & Chemical Engineering*, 109942.
+
+[17] A Alsholi, S Tiwari, J Zhang, M Peeters<sup>\*</sup>. [From empirical imprinting to programmable synthetic receptors: a perspective on data science and machine learning for molecularly imprinted polymers](https://doi.org/10.1039/d6py00493h) *Polymer Chemistry*, 2026, 17(35), 3746–3756.
 
 [16] S Zhang<sup>1</sup>, J Zhang<sup>1</sup>, A Lapkin<sup>\*</sup>. [A knowledge graph framework for digital twins of chemical processes Nature Chemical Engineering](https://www.nature.com/articles/s44286-026-00392-1) *Nature Chemical Engineering*, 2026, 3, 286–297.
 
