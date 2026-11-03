@@ -19,12 +19,12 @@ Here are some open PhD projects:
 1. Engineering scalable microbial recovery of critical metals from industrial waters to support the energy transition
 Supervisors: Prof Jon Lloyd, Prof Rahul Raveendran Nair, Dr Jiyizhe Zhang 
 Funding: UoM PhD scholarship
-https://www.findaphd.com/phds/project/school-of-natural-sciences-phd-scholarships-engineering-scalable-microbial-recovery-of-critical-metals-from-industrial-waters-to-support-the-energy-transition/?p198804
+[Project link](https://www.findaphd.com/phds/project/school-of-natural-sciences-phd-scholarships-engineering-scalable-microbial-recovery-of-critical-metals-from-industrial-waters-to-support-the-energy-transition/?p198804)
 
 2. Accelerating Chemical Process Development via Uncertainty-Aware Modelling and Experimental Design
 Supervisors: Dr Tim Waite, Prof Sami Kaski, Dr Jiyizhe Zhang
 Funding: AI in Decision Making for Complex System CDT
-https://www.findaphd.com/phds/project/accelerating-chemical-process-development-via-uncertainty-aware-modelling-and-experimental-design/?p200592
+[Project link](https://www.findaphd.com/phds/project/accelerating-chemical-process-development-via-uncertainty-aware-modelling-and-experimental-design/?p200592)
 
 3. TBA
 
